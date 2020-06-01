@@ -12,7 +12,7 @@ Digital security and protest advice for trans and LGBTQIA+ people in 2020.
       * [3.2.b Telegram](#telegram)
       * [3.2.c Apps to avoid for organizing](#badapps)
     * [3.3 Video chat](#vidchat)
-      * [3.3.a Jitsi](#jitsi)
+      * [3.3.a Meet Jitsi](#jitsi)
     * [3.4 Secure email](#secemail)
       * [3.4.a PGP](#pgp)
       * [3.4.b Thunderbird](#thunderbird)
@@ -34,16 +34,19 @@ Digital security and protest advice for trans and LGBTQIA+ people in 2020.
     * [3.9 Behavior & opsec](#digisecbehavior)
     * [3.10 Advanced: Infrastructure, servers, and hosting](#infrastructure)
       * [3.10.a How to setup your own cloud server](#how2cloudserver)
-      * [3.10.b How to install and use SSH to access a remote server]
+      * [3.10.b How to install and use SSH to access a remote server](#how2ssh)
       * [3.10.c How to host a jitsi video chat instance on your server](#how2jistihost)
       * [3.10.d How to host a tor relay](#how2torrelay)
-4. [Protest Safety](#protestsafety)
-    * [4.1 General Safety](#gensafety)
-    * [4.2 Binder Safety](#binders)
+4. [Protest safety](#protestsafety)
+    * [4.1 General safety](#gensafety)
+    * [4.2 Binder safety](#binders)
     * [4.3 What to do if your ID doesn't match your gender](#govtid)
-    * [4.4 Orgs to call if you're in trouble](#orgstocall)
-5. [Mutual Aid](#mutaid)
-    * [5.1 Mutual Aid Groups by Region](#mutaidreg)
+    * [4.4 Organizations to call if you're in trouble](#orgstocall)
+      * [4.4.a Trans advocacy organizations](#transorgs)
+5. [Mutual aid](#mutaid)
+    * [5.1 Mutual aid groups by region](#mutaidreg)
+      * [5.1.a USA](#mutaidUSA)
+      * [5.1.b Canada](#mutaidCAN)
 
 <a name="desc"></a>
 ## 1. Description
@@ -67,11 +70,14 @@ The NSA recently renewed the Patriot Act, which means that the US government is 
 
 In this section, you'll find some basic digital security guidance and advice for organizing online.
 
+<a name="mobilesec"></a>
+### 3.1 General mobile phone security
+
 <a name="smartphone"></a>
-### 3.1 Smartphone apps for communicating and organizing
+### 3.2 Smartphone apps for communicating and organizing
 
 <a name="signal"></a>
-#### 3.1a [Signal](https://signal.org/download/)
+#### 3.2.a [Signal](https://signal.org/download/)
 
 Signal is a free and open source encrypted messaging app, available for Android, iPhone, and computers.
 
@@ -87,7 +93,7 @@ One of the biggest downsides to Signal is that it requires a phone number to sig
    6. You can start messaging and calling as soon as the registration process is complete. 
 
 <a name="telegram"></a>
-#### [Telegram](https://telegram.org/apps)
+#### 3.2.b [Telegram](https://telegram.org/apps)
 
 Telegram is a chat app that allows encrypted communication. It is free and open source. Generally, it is considered to be less secure than Signal, but sometimes it is preferred for certain features, like the ability to make bigger group chats. However, it's generally recommended that, whenever possible, you use Signal rather than Telegram for sensitive communication.
 
@@ -96,7 +102,7 @@ Telegram is a chat app that allows encrypted communication. It is free and open 
 The thing with a group chat on telegram is that anyone can join or be invited, depending of the privacy settings of the group chat. This can be a bad thing for organizing. For example, if an undercover agent or an infiltrator convinces someone to join the group, they can see every message that's posted in the group. While this can happen in group chats on any app, the bigger maximum size of group chats on Telegram can make it harder to vet every new member. Keep this in mind when deciding whether to use Signal or Telegram to organize.
 
 <a name="badapps"></a>
-#### [Apps to avoid for organizing](#badapps)
+#### 3.2.c [Apps to avoid for organizing](#badapps)
 
 ##### Messenger
 
@@ -107,3 +113,174 @@ The thing with a group chat on telegram is that anyone can join or be invited, d
 ##### Skype
 
 ##### Zoom
+
+<a name="vidchat"></a>
+### 3.3 Video chat
+
+<a name="jitsi"></a>
+#### 3.3.a Meet Jitsi
+
+<a name="secemail"></a>
+### 3.4 Secure email
+
+<a name="pgp"></a>
+#### 3.4.a PGP
+
+<a name="thunderbird"></a>
+#### 3.4.b Thunderbird
+
+<a name="mailhosts"></a>
+#### 3.4.c Secure email hosts
+
+##### [Riseup.net](https://riseup.net)
+
+Riseup.net offers end-to-end encrypted email hosting, as well as a bunch of other services. Their goal is to keep activists safe online. They are committed to never turn over any of your data to law enforcement.
+
+To create a Riseup account, you'll need an invite code. You'll have to get an invite code from someone you know who's had a Riseup account for more than 3 months. If you have a Riseup account, you can generate a new invite code from the [invites page.](https://account.riseup.net/invites)
+
+Once you have an account, you can login at https://mail.riseup.net/rc/ or setup an email client like Thunderbird to access your account. You can learn how to configure your email client for riseup [here.](https://riseup.net/email)
+
+##### [Proton mail](https://protonmail.com/)
+
+Proton Mail offers end-to-end encrypted email hosting. You can create an account for free, but in order to access all features of your account (like using an email client to read your mail), you'll need to pay for a full account.
+
+<a name="anonweb"></a>
+### 3.5 Anonymous web browsing
+
+<a name="torbrowser"></a>
+#### 3.5.a [Tor Browser](https://www.torproject.org/download/)
+
+<a name="otherbrowsers"></a>
+#### 3.5.b Other browsers
+
+##### Brave
+
+##### Firefox Focus
+
+<a name="browsebehavior"></a>
+#### 3.5.c Secure browsing behavior
+
+Browsing the internet safely and securely takes more than just an anonymizing browser. You'll need to make some changes to your regular browsing behavior, too. 
+
+##### Search engines
+
+duckduckgo vs. google
+
+##### Downloading apps
+
+fdroid v. google play
+
+<a name="vpn"></a>
+### 3.6 VPNs
+
+<a name="freevpaidvpn"></a>
+#### 3.6.a Free vs. Paid
+
+<a name="riseupvpn"></a>
+#### 3.6.b [Riseup VPN](https://riseup.net/en/vpn)
+
+Riseup offers a free VPN service. Their goal is to keep activists safe online. They are committed to never turn over any of your data to law enforcement.
+
+To create a Riseup account, you'll need an invite code. You'll have to get an invite code from someone you know who's had a Riseup account for more than 3 months. If you have a Riseup account, you can generate a new invite code from the [invites page.](https://account.riseup.net/invites)
+
+<a name="firefoxvpn"></a>
+#### 3.6.c Firefox VPN
+
+<a name="tails"></a>
+### 3.7 [Tails](https://tails.boum.org/install/index.en.html)
+
+<a name="photosmeta"></a>
+### 3.8 Photos, filming, faces, and metadata
+
+When you take a photo or video on your phone, your phone automatically saves some information about when and where the photo was taken, as well as the kind of phone used to take the photo/video. This data is called 'metadata,' or more specifically, EXIF data. This data can be easily viewed by anyone, and law enforcement can use it to identify when and where a photo/video was taken. This makes it easier for law enforcement to identify who took the photo/video, or who might appear in it. 
+
+While documenting what happens at a protest can be important, it's also important to protect the identities of protestors present in the photo or video. Luckily, there are multiple free tools you can use to erase or spoof EXIF data, and to blur/obscure faces and other identifying features.
+
+##### Blur vs. obscure
+
+It's important to note that obscuring a feature using a black square or other image is often much safer than simply blurring it. This is because tools exist which make un-blurring an image relatively easy. For this reason, it's generally better to obscure a feature instead of blurring it, if you can.
+
+<a name="documenting"></a>
+#### 3.8.a Filming and documenting safely
+
+<a name="imagescrubber"></a>
+#### 3.8.b [Image-scrubber](https://everestpipkin.github.io/image-scrubber/)
+
+[Image-scrubber](https://everestpipkin.github.io/image-scrubber/) is a browser-based tool that allows you to remove EXIF metadata from photos and blur/obscure faces or identifying features. You can use the tool from your phone's browser, regardless of your phone's OS. The photos you edit using this tool aren't sent anywhere when you edit them: all the editing is done on your phone instead of on a remote server.
+
+<a name="obscuracam"></a>
+#### 3.8.c [Obscuracam](https://guardianproject.info/apps/obscuracam/)
+
+[Obscuracam](https://guardianproject.info/apps/obscuracam/) is an app developed by [the Guardian Project.](https://guardianproject.info/) Obscuracam allows you to remove any metadata from a photo or video. The app also has automatic face detection, which makes quickly blurring a large number of faces in a photo or video super easy.
+
+The app is available for Android on the [Google Play store](https://play.google.com/store/apps/details?id=org.witness.sscphase1&feature=search_result) and on [fdroid.](https://f-droid.org/en/packages/org.witness.sscphase1/) If you don't already have fdroid installed on your phone, you'll need to [install the fdroid .apk](https://f-droid.org/en/) before you can use it to install other apps. You can install the fdroid store by downloading the .apk file [directly from their website](https://f-droid.org/en/)) using your phone's browser.
+
+<a name="scrambled"></a>
+#### 3.8.d [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)
+
+[Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) is an app that allows you to easily remove EXIF data from a photo or video before sharing it. 
+
+The app is available for Android on the [Google Play store](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif&hl=en_US) and on [fdroid](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/). If you don't already have fdroid installed on your phone, you'll need to [install the fdroid .apk](https://f-droid.org/en/) before you can use it to install other apps. You can install the fdroid store by downloading the .apk file [directly from their website](https://f-droid.org/en/)) using your phone's browser.
+
+To use the app, tap the 'share' button in another app, then select Scrambled Exif from the list of options. This will tell Scrambled Exif to remove the EXIF data from your file. Once the EXIF data has been removed, another share window will open, and you'll be able to send the file using any app on your phone.
+
+<a name="digisecbehavior"></a>
+### 3.9 Behavior & opsec
+
+<a name="infrastructure"></a>
+### 3.10 Advanced: Infrastructure, servers, and hosting
+
+<a name="how2cloudserver"></a>
+#### 3.10.a How to setup your own cloud server
+
+<a name="how2SSH"></a>
+#### 3.10.b How to install and use SSH to access a remote server
+
+<a name="how2jistihost"></a>
+#### 3.10.c How to host a Jitsi video chat instance on your server
+
+<a name="how2torrelay"></a>
+#### 3.10.d How to host a tor relay
+
+<a name="protestsafety"></a>
+## 4. Protest Safety
+
+<a name="gensafety"></a>
+### 4.1 General Safety
+
+<a name="binders"></a>
+### 4.2 Binding safety
+
+<a name="govtid"></a>
+### 4.3 What to do if your ID doesn't match your gender
+
+Ideas:
+- backpass, if you can/want to
+- bring other documents to corroborate your name, maybe? like a phone bill or utilities bill that has your name and address on it. but is this bad because of address?
+- know the laws in your state
+- have a friend with you to advocate for you
+
+<a name="orgstocall"></a> 
+### 4.4 Organizations to call if you're in trouble
+
+<a name=""></a>
+#### 4.4.a Trans advocacy organizations
+
+(alhpabetical by state)
+
+#### 4.4.b Bail funds
+
+(alphabetical by state)
+
+<a name="mutaid"></a>
+## 5. Mutual aid
+
+<a name="mutaidreg"></a>
+### 5.1 Mutual aid groups by region
+
+<a name="mutaidUSA"></a>
+#### 5.1.a USA
+(alphabetical by state)
+
+<a name="mutaidCAN"></a>
+#### 5.1.b Canada
