@@ -3,8 +3,8 @@ Digital security and protest advice for trans and LGBTQIA+ people in 2020.
 
 ## Table of contents
 
-1. [ Description ](#desc)
-2. [ Disclaimer & usage tips](#usage)
+1. [Description, disclaimer, and usage tips ](#desc)
+2. [Other Resources ](#resources)
 3. [Digital security & organizing online](#digisec)
     * [3.1 General mobile phone security](#mobilesec)
     * [3.2 Smartphone apps for communicating and organizing](#smartphone)
@@ -26,10 +26,11 @@ Digital security and protest advice for trans and LGBTQIA+ people in 2020.
       * [3.6.b Riseup VPN](#riseupvpn)
       * [3.6.c Firefox VPN](#firefoxvpn)
     * [3.7 Tails](#tails)
-    * [3.8 Photos, Faces, and Metadata](#photosmeta)
-      * [3.8.a Image-Scrubber](#imagescrubber)
-      * [3.8.b Obscuracam](#obscuracam)
-      * [3.8.c Scrambled EXIF](#scrambled)
+    * [3.8 Photos, Filming, Faces, and Metadata](#photosmeta)
+      * [3.8.a Filming, Photos, and Documenting](#documenting)
+      * [3.8.b Image-Scrubber](#imagescrubber)
+      * [3.8.c Obscuracam](#obscuracam)
+      * [3.8.d Scrambled EXIF](#scrambled)
     * [3.9 Behavior & opsec](#digisecbehavior)
     * [3.10 Advanced: Infrastructure, servers, and hosting](#infrastructure)
       * [3.10.a How to setup your own cloud server](#how2cloudserver)
@@ -49,11 +50,15 @@ Digital security and protest advice for trans and LGBTQIA+ people in 2020.
 
 This guide is intended to provide some advice and resources to help trans and LGBTQIA+ people safely navigate protests, digital security, and quarantines in 2020. This guide is specifically written with US communities in mind, but may feature advice that's applicable to other contexts, as well.
 
-<a name="usage"></a>
-## 2. Disclaimer & usage tips
-
 I am not an expert! Take all of this advice with a grain of salt, and use your best judgement. 
 This advice is not one-size-fits-all! Your situation is almost certainly different from anyone else's, so it's important to remember that these tips might need some tweaking to be helpful to you.
+
+<a name="resources"></a>
+## 2. Other resources
+
+[From Beirut to Minneapolis](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md)
+  * a great general guide to protest safety, written by Lebanese technologists, protesters, and activists.
+
 
 <a name="digisec"></a>
 ## 3. Digital security & organizing online
