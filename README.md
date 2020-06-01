@@ -1,31 +1,33 @@
 # trans-resist
 Digital security and protest advice for trans and LGBTQIA+ people in 2020.
 
+## Table of contents
+
 1. [ Description ](#desc)
 2. [ Disclaimer & usage tips](#usage)
 3. [Digital security & organizing online](#digisec)
-  3a. [Smartphone apps for communicating and organizing](#smartphone)
+  a. [Smartphone apps for communicating and organizing](#smartphone)
     * [Signal](#signal)
     * [Telegram](#telegram)
     * [Apps to avoid for organizing](#badapps)
-  3b. [Video chat](#vidchat)
+  b. [Video chat](#vidchat)
     * [Jitsi](#jitsi)
-  3c. [PGP encryption for email](#pgpemail)
+  c. [PGP encryption for email](#pgpemail)
     * [PGP](#pgp)
     * [Thunderbird](#thunderbird)
     * [Secure email hosts](#secmail)
-  3d. [Anonymous web browsing](#anonweb)
+  d. [Anonymous web browsing](#anonweb)
     * [Tor Browser](#torbrowser)
-  3e. [VPNs](#vpn)
+  e. [VPNs](#vpn)
     * [Free vs. Paid](freevpaidvpn)
     * [Riseup VPN](#riseupvpn)
     * [Firefox VPN](#firefoxvpn)
-  3f. [Tails](#tails)
-  3g. [Photos, Faces, and Metadata](#photosmeta)
+  f. [Tails](#tails)
+  g. [Photos, Faces, and Metadata](#photosmeta)
     * [Image-Scrubber](#imagescrubber)
     * [Obscuracam](#obscuracam)
     * [Scrambled EXIF](#scrambled)
-  3h. [Behavior & opsec]
+  h. [Behavior & opsec]
   
 4. [Protest Safety](#protestsafety)
   4a. [General Safety](#gensafety)
