@@ -5,26 +5,26 @@ Digital security and protest advice for trans and LGBTQIA+ people in 2020.
 2. [ Disclaimer & usage tips](#usage)
 3. [Digital security & organizing online](#digisec)
   3a. [Smartphone apps for communicating and organizing](#smartphone)
-  * [Signal](#signal)
-  * [Telegram](#telegram)
-  * [Apps to avoid for organizing](#badapps)
+    * [Signal](#signal)
+    * [Telegram](#telegram)
+    * [Apps to avoid for organizing](#badapps)
   3b. [Video chat](#vidchat)
-  * [Jitsi](#jitsi)
+    * [Jitsi](#jitsi)
   3c. [PGP encryption for email](#pgpemail)
-  * [PGP](#pgp)
-  * [Thunderbird](#thunderbird)
-  * [Secure email hosts](#secmail)
+    * [PGP](#pgp)
+    * [Thunderbird](#thunderbird)
+    * [Secure email hosts](#secmail)
   3d. [Anonymous web browsing](#anonweb)
-  * [Tor Browser](#torbrowser)
+    * [Tor Browser](#torbrowser)
   3e. [VPNs](#vpn)
-  * [Free vs. Paid](freevpaidvpn)
-  * [Riseup VPN](#riseupvpn)
-  * [Firefox VPN](#firefoxvpn)
+    * [Free vs. Paid](freevpaidvpn)
+    * [Riseup VPN](#riseupvpn)
+    * [Firefox VPN](#firefoxvpn)
   3f. [Tails](#tails)
   3g. [Photos, Faces, and Metadata](#photosmeta)
-  * [Image-Scrubber](#imagescrubber)
-  * [Obscuracam](#obscuracam)
-  * [Scrambled EXIF](#scrambled)
+    * [Image-Scrubber](#imagescrubber)
+    * [Obscuracam](#obscuracam)
+    * [Scrambled EXIF](#scrambled)
   3h. [Behavior & opsec]
   
 4. [Protest Safety](#protestsafety)
@@ -55,16 +55,16 @@ The NSA recently renewed the Patriot Act, which means that the US government is 
 In this section, you'll find some basic digital security guidance and advice for organizing online.
 
 <a name="smartphone"></a>
-#### 3.1 Smartphone apps for communicating and organizing
+### 3.1 Smartphone apps for communicating and organizing
 
 <a name="signal"></a>
-##### 3.1a [Signal](https://signal.org/download/)
+#### 3.1a [Signal](https://signal.org/download/)
 
 Signal is a free and open source encrypted messaging app, available for Android, iPhone, and computers.
 
 One of the biggest downsides to Signal is that it requires a phone number to sign up. However, after you've created your account, you can use any phone number for that account. That means that you can spoof (create) a fake phone number to sign up. You will need that phone number to confirm your account in the initial setup process, but once you've done that, you can delete or abandon the fake number you used to sign up.
 
-###### [Signing up on mobile](https://support.signal.org/hc/en-us/articles/360007318691-Register-a-phone-number)
+##### [Signing up on mobile](https://support.signal.org/hc/en-us/articles/360007318691-Register-a-phone-number)
 
    1. Install and open the latest update of Signal on your Android or iOS device.
    2. Enter and confirm your phone number.
@@ -74,23 +74,23 @@ One of the biggest downsides to Signal is that it requires a phone number to sig
    6. You can start messaging and calling as soon as the registration process is complete. 
 
 <a name="telegram"></a>
-##### [Telegram](https://telegram.org/apps)
+#### [Telegram](https://telegram.org/apps)
 
 Telegram is a chat app that allows encrypted communication. It is free and open source. Generally, it is considered to be less secure than Signal, but sometimes it is preferred for certain features, like the ability to make bigger group chats. However, it's generally recommended that, whenever possible, you use Signal rather than Telegram for sensitive communication.
 
-###### [Group Chats]
+##### [Group Chats]
 
 The thing with a group chat on telegram is that anyone can join or be invited, depending of the privacy settings of the group chat. This can be a bad thing for organizing. For example, if an undercover agent or an infiltrator convinces someone to join the group, they can see every message that's posted in the group. While this can happen in group chats on any app, the bigger maximum size of group chats on Telegram can make it harder to vet every new member. Keep this in mind when deciding whether to use Signal or Telegram to organize.
 
 <a name="badapps"></a>
-##### [Apps to avoid for organizing](#badapps)
+#### [Apps to avoid for organizing](#badapps)
 
-###### Messenger
+##### Messenger
 
-###### Discord
+##### Discord
 
-###### Whatsapp
+##### Whatsapp
 
-###### Skype
+##### Skype
 
-###### Zoom
+##### Zoom
