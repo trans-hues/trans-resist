@@ -39,7 +39,7 @@ Digital security and protest advice for trans and LGBTQIA+ people in 2020.
       * [3.10.d How to host a tor relay](#how2torrelay)
 4. [Protest safety](#protestsafety)
     * [4.1 General safety](#gensafety)
-    * [4.2 Binder safety](#binders)
+    * [4.2 Binding safety](#binders)
     * [4.3 What to do if your ID doesn't match your gender](#govtid)
     * [4.4 Organizations to call if you're in trouble](#orgstocall)
       * [4.4.a Trans advocacy organizations](#transorgs)
