@@ -62,6 +62,14 @@ This advice is not one-size-fits-all! Your situation is almost certainly differe
 [From Beirut to Minneapolis](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md)
   * a great general guide to protest safety, written by Lebanese technologists, protesters, and activists.
 
+[The National Center for Transgender Equality: Know Your Rights](https://transequality.org/know-your-rights)
+  * Resources explaining what rights you have as a trans person in the US. Topics covered include airport security, government documents, housing, employment, and healthcare.
+  
+[The National Center for Transgender Equality: ID Documents Center](https://transequality.org/documents)
+  * Includes information on how to change your name on legal documents, IDs, and records in the US.
+  
+[The National Center for Transgender Equality: Trans Legal Services Network](https://transequality.org/issues/resources/trans-legal-services-network-directory)
+  * Includes links to trans-centric legal services by state. Most are focused around getting help with legal name and gender marker changes.
 
 <a name="digisec"></a>
 ## 3. Digital security & organizing online
