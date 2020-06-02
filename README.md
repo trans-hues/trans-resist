@@ -113,9 +113,9 @@ Signal is a free and open source encrypted messaging app, available for Android,
 
 One of the biggest downsides to Signal is that it requires a phone number to sign up. However, after you've created your account, you can use any phone number for that account. That means that you can spoof (create) a fake phone number to sign up. You will need that phone number to confirm your account in the initial setup process, but once you've done that, you can delete or abandon the fake number you used to sign up.
 
-##### [Signing up on mobile](https://support.signal.org/hc/en-us/articles/360007318691-Register-a-phone-number)
+##### [How to sign up on mobile](https://support.signal.org/hc/en-us/articles/360007318691-Register-a-phone-number)
 
-##### [Creating a temporary phone number](https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number/)
+##### [Creating a temporary phone number for signup](https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number/)
 
 ##### SMS vs. Encrypted messages
 
@@ -123,10 +123,38 @@ Signal also allows you to send SMS messages through the app. This can be a usefu
 
 You can only send an encrypted Signal message to someone who is also using Signal. You can tell whether you're about to send an SMS or a Signal message by looking at the message entry box before you send a message: if it says "Signal message," then you'll send an end-to-end encrypted message through Signal. If it says "SMS message," you'll send an unencrypted SMS message through Signal.
 
+If you want to disable sending and receiving SMS and MMS messages in Signal, tap the vertical ellipsis icon in the top right of the main app, then tap 'Settings.' Next, select 'SMS and MMS' and make sure that the first option in the menu shows 'SMS Disabled.' If it does not, then tap the first option in the menu and disable SMS.
+
+##### Sending photos
+
+You can take a photo directly within the Signal app and then send it to someone using Signal messaging. The benefit of this is that the photo will not be saved automatically to your phone's unencrypted storage. However, anyone who receives the image can download the image to their phone's regular unencrypted storage and then send it to others, so be aware of that possiblity.
+
+If you want to send an image over Signal, make sure that you first remove any EXIF data from it using one of the [image scrubbers](#photosmeta) that we've linked in this guide. This will make it harder for someone who gets the image file to determine where and when it was taken. If the photo includes any faces in it, we also recommend that you obscure them using the same tools before you share them over Signal.
+
+##### Disappearing messages
+
+You can set Signal messages to be deleted automatically after a certain amount of time. This will delete the messages from the phone/device of everyone in the conversation. This can be useful if you're worried that someone might get a hold of your phone and be able to look at your messages that way. 
+
+To turn on disappearing messages in a Signal conversation, first open the conversation in Signal. Then, tap the vertical ellipsis icon in the top right corner and select 'Disappearing messages.' From there, you'll be able to set how much time you want messages to remain before they are deleted. To turn off disappearing messages, follow the same steps and select 'Off' from the menu.
+
+Keep in mind that disappearing messages also makes it easier for someone to gaslight you, as any evidence of the conversation will have disappeared. It's important to weigh this against the importance of deleting messages for privacy.
+
+##### Locking access to Signal with a passcode
+
+You can set Signal to require a passcode to open it. This can serve as an extra level of protection to keep people from looking at your messages on your phone. 
+
+To setup a screen lock for Signal, tap the vertical ellipsis icon in the top right corner of the main app. Then, select 'Privacy' from the menu. From there, you can toggle 'Screen lock' on or off. You can also adjust the 'Screen lock activity timeout' to tell Signal to automatically lock your screen again after a certain amount of inactivity.
+
+##### More help
+
+If you need more help with Signal, you can visit their official support page [here.](https://support.signal.org/hc/en-us)
+
+If you have more questions about Signal's security, you can read more [here.](https://support.signal.org/hc/en-us/categories/360000674811-Security)
+
 <a name="telegram"></a>
 #### **(2.2.b) [Telegram](https://telegram.org/apps)**
 
-Telegram is a chat app that allows encrypted communication. It is free and open source. Generally, it is considered to be less secure than Signal, but sometimes it is preferred for certain features, like the ability to make bigger group chats. However, it's generally recommended that, whenever possible, you use Signal rather than Telegram for sensitive communication.
+Telegram is a chat app that allows encrypted communication. It is free and open-source. Generally, it is considered to be less secure than Signal, but sometimes it is preferred for certain features, like the ability to make bigger group chats. However, it's generally recommended that, whenever possible, you use Signal rather than Telegram for sensitive communication.
 
 ##### [Group Chats]
 
