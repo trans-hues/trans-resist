@@ -66,6 +66,7 @@ We are people who care about digital security, and who have devoted some part of
 
 We'd also like to recommend [From Beirut to Minneapolis](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md), a guide to general protest safety written by some trusted folks who're Lebanese protestors, activists, and technologists. We've adapted some of their advice here.
 
+---
 
 <a name="digisec"></a>
 ## **(2.0) Digital security & organizing online**
@@ -105,6 +106,8 @@ Android phones are run on Google services, and Google tracks where you go with y
 Apple can track your iPhone, too. They have an official article on how to turn off location services [here.](https://support.apple.com/en-us/HT207092)
 
 Also make sure to turn off location tagging on any social media accounts you use regularly. This includes Instagram, Twitter, and Facebook. This is especially important if you're talking about protests on social media, but is also generally good practice to prevent getting doxxed or harassed online.
+
+---
 
 <a name="smartphone"></a>
 ### **(2.2) Smartphone apps for communicating and organizing**
@@ -154,7 +157,6 @@ If you need more help with Signal, you can visit their official support page [he
 
 If you have more questions about Signal's security, you can read more [here.](https://support.signal.org/hc/en-us/categories/360000674811-Security)
 
----
 
 <a name="telegram"></a>
 #### **(2.2.b) [Telegram](https://telegram.org/apps)**
@@ -164,8 +166,6 @@ Telegram is a chat app that allows encrypted communication. It is free and open-
 ##### Group Chats
 
 The thing with a group chat on telegram is that anyone can join or be invited, depending of the privacy settings of the group chat. This can be a bad thing for organizing. For example, if an undercover agent or an infiltrator convinces someone to join the group, they can see every message that's posted in the group. While this can happen in group chats on any app, the bigger maximum size of group chats on Telegram can make it harder to vet every new member. Keep this in mind when deciding whether to use Signal or Telegram to organize.
-
----
 
 <a name="badapps"></a>
 #### **(2.2.c) [Apps to avoid for organizing](#badapps)**
@@ -242,6 +242,8 @@ Zoom was recently bought by Facebook, and [research by CitizenLab](https://citiz
 Discord doesn't use end-to-end encryption, which means that police or the NSA could potentially read any of your Discord messages, listen in on voice channels, or view your video calls.
 Discord also has a policy which says that people should not "promote, encourage, or engage in any illegal behavior." It also does not allow the "organization, promotion, or support of violent extremism." Since the US government has recently said they'd like to declare certain activist organizations to be terrorist organizations, it would be safest to use another platform to communicate.
 
+---
+
 <a name="secemail"></a>
 ### **(2.5) Secure email**
 
@@ -300,10 +302,12 @@ Proton Mail offers end-to-end encrypted email hosting. You can create an account
 ##### [Mailfence](https://mailfence.com/)
 ##### [Tutanota](https://tutanota.com/) 
 
+---
+
 <a name="anonweb"></a>
 ### **(2.6) Anonymous web browsing**
 
-Normally, when you access the internet using a web browser, your IP address is visible to the server where the website is hosted. 
+Normally, when you access the internet using a web browser, your IP address is visible to the server where the website is hosted. However, there are multiple tools you can use to hide your IP and other identifying information. Some of these tools include [Tor Browser](#torbrowser), [Tails](#tails), and [VPNs](#vpn).
 
 <a name="torbrowser"></a>
 #### **(2.6.a) [Tor Browser](https://www.torproject.org/download/)**
@@ -332,7 +336,9 @@ When using Tor Browser, you'll need to change some of your normal browsing behav
 <a name="otherbrowsers"></a>
 #### **(2.6.b) Other browsers**
 
-##### Brave
+##### [Brave](https://brave.com/)
+
+Brave (https://brave.com/) is a browser that uses the tor network, blocks ad-trackers, and other tools to protect your privacy. 
 
 ##### Firefox
 
@@ -360,6 +366,8 @@ UblockOrigin https://getublock.com/
 HTTPS everywhere https://www.eff.org/https-everywhere
 
 If these are the only browser extensions you use, you'll be golden. Be wary of installing browser extensions from untrusted or unknown sources.
+
+---
 
 <a name="vpn"></a>
 ### **(2.7) VPNs**
@@ -397,6 +405,8 @@ I can't recommend or anti-recommend any of these providers, so please do your re
 
 [NordVPN](https://nordvpn.com/): price varies based on the duration of your plan, but the base monthly price is $11.95 USD/month
 
+---
+
 <a name="tails"></a>
 ### **(2.8) [Tails](https://tails.boum.org/install/index.en.html)**
 
@@ -405,6 +415,8 @@ I can't recommend or anti-recommend any of these providers, so please do your re
 You can also install Tails in a way that allows you to save files to your Tails OS, and also encrypts the entire partition used for Tails. Otherwise, everything you do on Tails will disappear automatically when you shut down Tails.
 
 To install Tails on a USB, you'll need a computer with at least 1.2 GB of storage space, a USB with at least 16 GB of storage space, and at least 30 minutes to run the installation process. You can [download Tails and get started here.](https://tails.boum.org/install/index.en.html)
+
+---
 
 <a name="photosmeta"></a>
 ### **(2.9) Photos, filming, faces, and metadata**
@@ -441,6 +453,8 @@ The app is available for Android on the [Google Play store](https://play.google.
 
 To use the app, tap the 'share' button in another app, then select Scrambled Exif from the list of options. This will tell Scrambled Exif to remove the EXIF data from your file. Once the EXIF data has been removed, another share window will open, and you'll be able to send the file using any app on your phone.
 
+---
+
 <a name="digisecbehavior"></a>
 ### **(2.10) Behavior and social organization**
 
@@ -449,6 +463,8 @@ Beware of undercover cops in your group chats and online organizing groups, but 
 Both of these reasons mean that sometimes it's best to organize in small groups with people you know directly and trust deeply.
 
 Be wary of using your real name: in the US, finding someone's address with only their name is trivial, thanks to data brokers like Spokeo and Whitepages.
+
+---
 
 <a name="infrastructure"></a>
 ### **(2.11) Advanced: Infrastructure, servers, and hosting**
@@ -492,6 +508,8 @@ In summary, the tor network runs on relays. Volunteers can setup relays on their
 
 Tor has an [official guide on how to setup a tor relay,](https://trac.torproject.org/projects/tor/wiki/TorRelayGuide) but it is unfortunately not exhaustive, and pretty out of date. It's very possible that you'll run into problems that you won't be able to solve using their guide. Luckily, they have a [mailing list](https://lists.torproject.org/cgi-bin/mailman/listinfo/tor-relays) and an IRC channel (#tor-relays on [irc.oftc.net](https://support.torproject.org/get-in-touch/#irc-help))where you can ask questions. They also have a new [relay operations hub](https://community.torproject.org/relay/) on their community site which is being updated more regularly.
 
+---
+
 <a name="protestsafety"></a>
 ## **(3.0) Protest Safety**
 
@@ -510,6 +528,8 @@ Tear gas can stick to face paint and makeup, so it's best to go without. Nylons 
 
 If you want to confuse facial recognition technology, the best tactic is to wear a face mask and glasses, and this has the added benefit of protecting you from COVID-19.
 
+---
+
 <a name="binders"></a>
 ### **(3.2) Binder safety**
 
@@ -519,10 +539,20 @@ Instead, you might want to use a sports bra, since it restricts breathing less t
 
 In general, follow the same guidelines that you would when exercising, and be sure that you can remove whatever you're wearing easily in case you're exposed to tear gas or pepper spray.
 
+---
+
 <a name="firstaid"></a>
 ### **(3.3) First Aid**
 
-Tear gas & riot control agents
+#### Tear gas & riot control agents
+
+#### Wound care
+
+#### Dehydration
+
+#### Shock
+
+---
 
 <a name="govtid"></a>
 ### **(3.4) What to do if your ID doesn't match your gender**
@@ -544,6 +574,8 @@ Some ideas for what to do if you're arrested/accosted by police, and they ask wh
 
 (alhpabetical by state)
 
+---
+
 <a name="mutaid"></a>
 ## **(4.0) Mutual aid**
 
@@ -557,10 +589,14 @@ Some ideas for what to do if you're arrested/accosted by police, and they ask wh
 <a name="mutaidCAN"></a>
 #### **(4.1.b) Canada**
 
+---
+
 <a name="bailfunds"></a>
 ### **(4.2) Bail funds by region**
 
 (alphabetical by state)
+
+---
 
 <a name="helpfromhome"></a>
 ## **(5.0) How to help if you can't physically go to a protest**
@@ -583,6 +619,8 @@ While showing up physically to a protest is important to a movement, not all of 
   * Keep an eye on social media to watch for developments
   * Ask your friends to message you when they're leaving home and when they arrive home safe
   * If your home is near a protest location, consider offering to let people use your bathroom or refill waterbottles
+
+---
 
 <a name="resources"></a>
 ## **(6.0) Other resources**
