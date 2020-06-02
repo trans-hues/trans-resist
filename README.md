@@ -96,7 +96,7 @@ If you do not feel safe leaving your phone at home, then make sure to:
 
 Consider downloading [F-Droid](https://f-droid.org/en/about/) and using it to install apps on your Android phone when possible. The Google Play store can keep track of which apps you download, and can also track people in other ways. F-droid is open-source, and does not track you or your phone. It also allows you to search for and install FOSS (free and open-source software) for your phone.
 
-If you want to install apps using F-Droid, you'll need to [install the F-Droid .apk](https://f-droid.org/en/) before you can use it to install other apps. You can install the F-Droid catalog by downloading the .apk file [directly from their website](https://f-droid.org/en/)) using your phone's browser.
+If you want to install apps using F-Droid, you'll need to [install the F-Droid .apk](https://f-droid.org/en/) before you can use it to install other apps. You can install the F-Droid catalog by downloading the .apk file [directly from their website](https://f-droid.org/en/) using your phone's browser.
 
 ##### Location services
 
