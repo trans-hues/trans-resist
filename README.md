@@ -298,6 +298,8 @@ To use the app, tap the 'share' button in another app, then select Scrambled Exi
 <a name="gensafety"></a>
 ### (3.1) General Safety
 
+[CDC Fact Sheet on Tear Gas](https://emergency.cdc.gov/agent/riotcontrol/factsheet.asp)
+
 <a name="binders"></a>
 ### (3.2) Binder safety
 
@@ -338,7 +340,7 @@ Ideas:
 #### (4.1.b) Canada
 
 <a name="bailfunds"></a>
-#### (4.2) Bail funds by region
+### (4.2) Bail funds by region
 
 (alphabetical by state)
 
