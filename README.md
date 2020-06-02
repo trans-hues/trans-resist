@@ -53,7 +53,7 @@ Digital security and protest advice for trans and LGBTQIA+ people in 2020.
 6. [Other Resources ](#resources)
 
 <a name="desc"></a>
-## 1. Description
+## (1.0) Description
 
 This guide is intended to provide some advice and resources to help trans and LGBTQIA+ people safely navigate protests, digital security, and quarantines in 2020. This guide is specifically written with US communities in mind, but may feature advice that's applicable to other contexts, as well.
 
@@ -61,24 +61,24 @@ I am not an expert! Take all of this advice with a grain of salt, and use your b
 This advice is not one-size-fits-all! Your situation is almost certainly different from anyone else's, so it's important to remember that these tips might need some tweaking to be helpful to you.
 
 <a name="digisec"></a>
-## 2. Digital security & organizing online
+## (2.0) Digital security & organizing online
 
 The NSA recently renewed the Patriot Act, which means that the US government is free to surveil what you do and say online and over the phone. This, combined with the fact that the US govt recently said they'd like to label certain activist groups as terrorist organizations, means that we need to protect ourselves as much as we can while organizing.
 
 In this section, you'll find some basic digital security guidance and advice for organizing online.
 
 <a name="mobilesec"></a>
-### 2.1 General mobile phone security
+### (2.1) General mobile phone security
 
-Consider turning off your phone or leaving it at home, if you feel safe to do so. Police are known to use [IMSI-catchers](https://www.eff.org/pages/cell-site-simulatorsimsi-catchers) to track who is present at a protest, and to use cell tower records to see who was present at a protest that happened in the past. Police can use some of this data even if your phone was off while you were at the protest. 
+If you're planning on going to a protest, consider turning off your phone or leaving it at home, if you feel safe to do so. Police are known to use [IMSI-catchers](https://www.eff.org/pages/cell-site-simulatorsimsi-catchers) to track who is present at a protest, and to use cell tower records to see who was present at a protest that happened in the past. Police can use some of this data even if your phone was off while you were at the protest. 
 
 If you want to bring your phone with you, and if you have a farraday bag, bring it to the protest and keep your phone inside and powered off. If you don't have one, you can make one using [this guide.](https://www.instructables.com/id/EASIEST-FARADAY-PHONE-POUCH/)
 
 <a name="smartphone"></a>
-### 2.2 Smartphone apps for communicating and organizing
+### (2.2) Smartphone apps for communicating and organizing
 
 <a name="signal"></a>
-#### 2.2.a [Signal](https://signal.org/download/)
+#### (2.2.a) [Signal](https://signal.org/download/)
 
 Signal is a free and open source encrypted messaging app, available for Android, iPhone, and computers.
 
@@ -89,7 +89,7 @@ One of the biggest downsides to Signal is that it requires a phone number to sig
 ##### Creating a temporary phone number
 
 <a name="telegram"></a>
-#### 2.2.b [Telegram](https://telegram.org/apps)
+#### (2.2.b) [Telegram](https://telegram.org/apps)
 
 Telegram is a chat app that allows encrypted communication. It is free and open source. Generally, it is considered to be less secure than Signal, but sometimes it is preferred for certain features, like the ability to make bigger group chats. However, it's generally recommended that, whenever possible, you use Signal rather than Telegram for sensitive communication.
 
@@ -98,7 +98,7 @@ Telegram is a chat app that allows encrypted communication. It is free and open 
 The thing with a group chat on telegram is that anyone can join or be invited, depending of the privacy settings of the group chat. This can be a bad thing for organizing. For example, if an undercover agent or an infiltrator convinces someone to join the group, they can see every message that's posted in the group. While this can happen in group chats on any app, the bigger maximum size of group chats on Telegram can make it harder to vet every new member. Keep this in mind when deciding whether to use Signal or Telegram to organize.
 
 <a name="OTRchat"></a>
-#### 2.2.c OTR Chat (Pidgin & Adium)
+#### (2.2.c) OTR Chat (Pidgin & Adium)
 
 ##### [Pidgin (Windows)](https://adium.im/help/pgs/AdvancedFeatures-OTREncryption.html)
 
@@ -113,7 +113,7 @@ Adium allows people to communicate through end-to-end encrypted messaging with i
 For instructions on how to setup Adium and its OTR plugin, [click here.] (https://adium.im/help/pgs/AdvancedFeatures-OTREncryption.html)
 
 <a name="badapps"></a>
-#### 2.2.d [Apps to avoid for organizing](#badapps)
+#### (2.2.d) [Apps to avoid for organizing](#badapps)
 
 ##### Messenger
 
@@ -131,13 +131,13 @@ Discord also has a policy which says that people should not "promote, encourage,
 Although Whatsapp uses end-to-end encryption, it's owned by Facebook. Facebook has a history of disregarding users' privacy, collecting and selling their data, and using it to influence elections. We don't trust Facebook for sensitive communication.
 
 <a name="vidchat"></a>
-### 2.3 Video chat
+### (2.3) Video chat
 
 <a name="jitsi"></a>
-#### 2.3.a [Meet Jitsi](https://meet.jit.si/)
+#### (2.3.a) [Meet Jitsi](https://meet.jit.si/)
 
 <a name="badvid"></a>
-#### 2.3.b Apps to avoid for video chat
+#### (2.3.b) Apps to avoid for video chat
 
 ##### Skype
 
@@ -148,16 +148,16 @@ Skype has claimed that they encrypt communications between users, but because th
 Zoom was recently bought by Facebook, and [research by CitizenLab](https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/) shows that Zoom has shared encryption keys with others in the past, allowing people to view others' private conversations. Zoom also does not encrypt video chats with end-to-end encryption. This means that Zoom is able to decrypt and monitor calls made using the app. If you want to use a secure video chat app, use [Meet Jitsi](https://meet.jit.si/) instead.
 
 <a name="secemail"></a>
-### 2.4 Secure email
+### (2.4) Secure email
 
 <a name="pgp"></a>
-#### 2.4.a PGP
+#### (2.4.a) PGP
 
 <a name="thunderbird"></a>
-#### 2.4.b Thunderbird
+#### (2.4.b) Thunderbird
 
 <a name="mailhosts"></a>
-#### 2.4.c Secure email hosts
+#### (2.4.c) Secure email hosts
 
 ##### [Riseup.net](https://riseup.net)
 
@@ -179,13 +179,13 @@ Proton Mail offers end-to-end encrypted email hosting. You can create an account
 ##### [Tutanota](https://tutanota.com/) 
 
 <a name="anonweb"></a>
-### 2.5 Anonymous web browsing
+### (2.5) Anonymous web browsing
 
 <a name="torbrowser"></a>
-#### 2.5.a [Tor Browser](https://www.torproject.org/download/)
+#### (2.5.a) [Tor Browser](https://www.torproject.org/download/)
 
 <a name="otherbrowsers"></a>
-#### 2.5.b Other browsers
+#### (2.5.b) Other browsers
 
 ##### Brave
 
@@ -196,17 +196,19 @@ Firefox has recently added a bunch of new privacy-minded features to their brows
 While Firefox is the least private of any of the browsers here, it is the best option for regular, low-risk browsing. We highly recommend using it instead of Chrome or Safari. 
 
 <a name="browsebehavior"></a>
-#### 2.5.c Secure browsing behavior
+#### (2.5.c) Secure browsing behavior
 
 Browsing the internet safely and securely takes more than just an anonymizing browser. You'll need to make some changes to your regular browsing behavior, too. 
 
 ##### Search engines
 
-duckduckgo vs. google
+Use https://duckduckgo.com instead of Google - DuckDuckGo doesn't track or record your searches. 
 
 ##### Downloading apps
 
-fdroid v. google play
+Consider downloading [F-Droid](https://f-droid.org/en/about/) and using it to install apps on your Android phone when possible. The Google Play store can keep track of which apps you download, and can also track people in other ways. F-droid is open-source, and does not track you or your phone. It also allows you to search for and install FOSS (free and open-source software) for your phone.
+
+If you want to install apps using F-Droid, you'll need to [install the F-Droid .apk](https://f-droid.org/en/) before you can use it to install other apps. You can install the F-Droid catalog by downloading the .apk file [directly from their website](https://f-droid.org/en/)) using your phone's browser.
 
 ##### Sending files
 
@@ -220,26 +222,26 @@ UblockOrigin https://getublock.com/
 HTTPS everywhere https://www.eff.org/https-everywhere
 
 <a name="vpn"></a>
-### 2.6 VPNs
+### (2.6) VPNs
 
 <a name="freevpaidvpn"></a>
-#### 2.6.a Free vs. Paid
+#### (2.6.a) Free vs. Paid
 
 <a name="riseupvpn"></a>
-#### 2.6.b [Riseup VPN](https://riseup.net/en/vpn)
+#### (2.6.b) [Riseup VPN](https://riseup.net/en/vpn)
 
 Riseup offers a free VPN service. Their goal is to keep activists safe online. They are committed to never turn over any of your data to law enforcement.
 
 To create a Riseup account, you'll need an invite code. You'll have to get an invite code from someone you know who's had a Riseup account for more than 3 months. If you have a Riseup account, you can generate a new invite code from the [invites page.](https://account.riseup.net/invites)
 
 <a name="firefoxvpn"></a>
-#### 2.6.c Firefox VPN
+#### (2.6.c) Firefox VPN
 
 <a name="tails"></a>
-### 2.7 [Tails](https://tails.boum.org/install/index.en.html)
+### (2.7) [Tails](https://tails.boum.org/install/index.en.html)
 
 <a name="photosmeta"></a>
-### 2.8 Photos, filming, faces, and metadata
+### (2.8) Photos, filming, faces, and metadata
 
 When you take a photo or video on your phone, your phone automatically saves some information about when and where the photo was taken, as well as the kind of phone used to take the photo/video. This data is called 'metadata,' or more specifically, EXIF data. This data can be easily viewed by anyone, and law enforcement can use it to identify when and where a photo/video was taken. This makes it easier for law enforcement to identify who took the photo/video, or who might appear in it. 
 
@@ -250,55 +252,55 @@ While documenting what happens at a protest can be important, it's also importan
 It's important to note that obscuring a feature using a black square or other image is often much safer than simply blurring it. This is because tools exist which make un-blurring an image relatively easy. For this reason, it's generally better to obscure a feature instead of blurring it, if you can.
 
 <a name="documenting"></a>
-#### 2.8.a Filming and documenting safely
+#### (2.8.a) Filming and documenting safely
 
 <a name="imagescrubber"></a>
-#### 2.8.b [Image-scrubber](https://everestpipkin.github.io/image-scrubber/)
+#### (2.8.b) [Image-scrubber](https://everestpipkin.github.io/image-scrubber/)
 
 [Image-scrubber](https://everestpipkin.github.io/image-scrubber/) is a browser-based tool that allows you to remove EXIF metadata from photos and blur/obscure faces or identifying features. You can use the tool from your phone's browser, regardless of your phone's OS. The photos you edit using this tool aren't sent anywhere when you edit them: all the editing is done on your phone instead of on a remote server.
 
 <a name="obscuracam"></a>
-#### 2.8.c [Obscuracam](https://guardianproject.info/apps/obscuracam/)
+#### (2.8.c) [Obscuracam](https://guardianproject.info/apps/obscuracam/)
 
 [Obscuracam](https://guardianproject.info/apps/obscuracam/) is an app developed by [the Guardian Project.](https://guardianproject.info/) Obscuracam allows you to remove any metadata from a photo or video. The app also has automatic face detection, which makes quickly blurring a large number of faces in a photo or video super easy.
 
-The app is available for Android on the [Google Play store](https://play.google.com/store/apps/details?id=org.witness.sscphase1&feature=search_result) and on [fdroid.](https://f-droid.org/en/packages/org.witness.sscphase1/) If you don't already have fdroid installed on your phone, you'll need to [install the fdroid .apk](https://f-droid.org/en/) before you can use it to install other apps. You can install the fdroid store by downloading the .apk file [directly from their website](https://f-droid.org/en/)) using your phone's browser.
+The app is available for Android on the [Google Play store](https://play.google.com/store/apps/details?id=org.witness.sscphase1&feature=search_result) and on [F-Droid.](https://f-droid.org/en/packages/org.witness.sscphase1/) If you don't already have F-Droid installed on your phone, you'll need to [install the F-Droid .apk](https://f-droid.org/en/) before you can use it to install other apps. You can install the F-Droid store by downloading the .apk file [directly from their website](https://f-droid.org/en/)) using your phone's browser.
 
 <a name="scrambled"></a>
-#### 2.8.d [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)
+#### (2.8.d) [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)
 
 [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) is an app that allows you to easily remove EXIF data from a photo or video before sharing it. 
 
-The app is available for Android on the [Google Play store](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif&hl=en_US) and on [fdroid](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/). If you don't already have fdroid installed on your phone, you'll need to [install the fdroid .apk](https://f-droid.org/en/) before you can use it to install other apps. You can install the fdroid store by downloading the .apk file [directly from their website](https://f-droid.org/en/)) using your phone's browser.
+The app is available for Android on the [Google Play store](https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif&hl=en_US) and on [F-Droid](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/). If you don't already have F-Droid installed on your phone, you'll need to [install the F-Droid .apk](https://f-droid.org/en/) before you can use it to install other apps. You can install the F-Droid store by downloading the .apk file [directly from their website](https://f-droid.org/en/)) using your phone's browser.
 
 To use the app, tap the 'share' button in another app, then select Scrambled Exif from the list of options. This will tell Scrambled Exif to remove the EXIF data from your file. Once the EXIF data has been removed, another share window will open, and you'll be able to send the file using any app on your phone.
 
 <a name="digisecbehavior"></a>
-### 2.9 Behavior & opsec
+### (2.9) Behavior and social organization
 
 <a name="infrastructure"></a>
-### 2.10 Advanced: Infrastructure, servers, and hosting
+### (2.10) Advanced: Infrastructure, servers, and hosting
 
 <a name="how2cloudserver"></a>
-#### 2.10.a How to setup your own cloud server
+#### (2.10.a) How to setup your own cloud server
 
 <a name="how2SSH"></a>
-#### 2.10.b How to install and use SSH to access a remote server
+#### (2.10.b) How to install and use SSH to access a remote server
 
 <a name="how2jistihost"></a>
-#### 2.10.c How to host a Jitsi video chat instance on your server
+#### (2.10.c) How to host a Jitsi video chat instance on your server
 
 <a name="how2torrelay"></a>
-#### 2.10.d How to host a tor relay
+#### (2.10.d) How to host a tor relay
 
 <a name="protestsafety"></a>
-## 3. Protest Safety
+## (3.0) Protest Safety
 
 <a name="gensafety"></a>
-### 3.1 General Safety
+### (3.1) General Safety
 
 <a name="binders"></a>
-### 3.2 Binder safety
+### (3.2) Binder safety
 
 If you wear a binder, consider leaving it at home when you go out to protest. Binders usually constrict your chest, and can make breathing more difficult when running or doing other strenuous activity. Tear gas and pepper spray often used by police at protests, and both of these agents can restrict your breathing and agravate asthma or other respiratory conditions. 
 
@@ -307,7 +309,7 @@ Instead, you might want to use a sports bra, since it restricts breathing less t
 In general, follow the same guidelines that you would when exercising, and be sure that you can remove whatever you're wearing easily in case you're exposed to tear gas or pepper spray.
 
 <a name="govtid"></a>
-### 3.3 What to do if your ID doesn't match your gender
+### (3.3) What to do if your ID doesn't match your gender
 
 Ideas:
 - backpass, if you can/want to (play along as if the gender on your ID is correct)
@@ -316,33 +318,33 @@ Ideas:
 - have a friend with you to advocate for you
 
 <a name="orgstocall"></a> 
-### 3.4 Organizations to call if you're in trouble
+### (3.4) Organizations to call if you're in trouble
 
 <a name=""></a>
-#### 3.4.a Trans advocacy organizations
+#### (3.4.a) Trans advocacy organizations
 
 (alhpabetical by state)
 
 <a name="mutaid"></a>
-## 4. Mutual aid
+## (4.0) Mutual aid
 
 <a name="mutaidreg"></a>
-### 4.1 Mutual aid groups by region
+### (4.1) Mutual aid groups by region
 
 <a name="mutaidUSA"></a>
-#### 4.1.a USA
+#### (4.1.a) USA
 (alphabetical by state)
 
 <a name="mutaidCAN"></a>
-#### 4.1.b Canada
+#### (4.1.b) Canada
 
 <a name="bailfunds"></a>
-#### 4.2 Bail funds by region
+#### (4.2) Bail funds by region
 
 (alphabetical by state)
 
 <a name="helpfromhome"></a>
-## 5. How to help if you can't physically go to a protest
+## (5.0) How to help if you can't physically go to a protest
 
 While showing up physically to a protest is important to a movement, not all of us are able to risk it: some of us are undocumented, some of us have vulnerable immune systems, and some of us have disabilities. There are plenty of legitimate reasons why someone might not be able to attend a protest, or why someone might not feel safe attending a protest.
 
@@ -361,7 +363,7 @@ While showing up physically to a protest is important to a movement, not all of 
   * If your home is near a protest location, consider offering to let people use your bathroom or refill waterbottles
 
 <a name="resources"></a>
-## 6. Other resources
+## (6.0) Other resources
 
 [From Beirut to Minneapolis](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md)
   * a great general guide to protest safety, written by Lebanese technologists, protesters, and activists.
