@@ -86,7 +86,7 @@ One of the biggest downsides to Signal is that it requires a phone number to sig
 
 ##### [Signing up on mobile](https://support.signal.org/hc/en-us/articles/360007318691-Register-a-phone-number)
 
-##### Creating a temporary phone number
+##### [Creating a temporary phone number](https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number/)
 
 <a name="telegram"></a>
 #### (2.2.b) [Telegram](https://telegram.org/apps)
@@ -211,9 +211,8 @@ Consider downloading [F-Droid](https://f-droid.org/en/about/) and using it to in
 If you want to install apps using F-Droid, you'll need to [install the F-Droid .apk](https://f-droid.org/en/) before you can use it to install other apps. You can install the F-Droid catalog by downloading the .apk file [directly from their website](https://f-droid.org/en/)) using your phone's browser.
 
 ##### Sending files
-
-small files: encrypted email, Signal
-large files: https://send.firefox.com , https://onionshare.org/
+  * small files: encrypted email, Signal
+  * large files: https://send.firefox.com, https://onionshare.org/
 
 ##### Trustworthy browser extensions to protect yourself online
 
