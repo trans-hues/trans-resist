@@ -566,7 +566,7 @@ While showing up physically to a protest is important to a movement, not all of 
 [From Beirut to Minneapolis](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md)
   * a great general guide to protest safety, written by Lebanese technologists, protesters, and activists.
   
-[Anonymize your online footprint](https://docs.google.com/document/d/1615pZB11BhsR0KtvyiXfzfMUBlxZi47HzzhWHIRpxwU/edit)
+[Anonymize your online footprint](https://pastebin.com/TPgtvmVB)
   * a guide focusing on how to anonymize and reduce your online footprint, at home and at a protest.
 
 [Hacking//Hustling: Doxxing Prevention Harm Reduction Training](https://hackinghustling.org/doxxing-prevention-harm-reduction-training/)
