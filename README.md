@@ -308,6 +308,27 @@ Normally, when you access the internet using a web browser, your IP address is v
 <a name="torbrowser"></a>
 #### **(2.6.a) [Tor Browser](https://www.torproject.org/download/)**
 
+Tor Browser helps you protect your anonymity by anonymizing your internet browser traffic.
+
+You can download [Tor Browser here.](https://www.torproject.org/download/)
+
+You can find guides on how to use Tor Browser [here.](https://tb-manual.torproject.org/)
+
+Tor works by sending your traffic through three random servers (also known as relays) in the Tor network. The last relay in the circuit (the “exit relay”) then sends the traffic out onto the public Internet. This means that anyone who looks at your activity from the point of view of the website will see the exit relay's IP address, not yours. For a more in-depth explanation of how the tor network works, check out the [Tor Project website.](https://tb-manual.torproject.org/about/)
+
+Anyone who looks at your web activity on either end (your ISP or the website provider) will be able to tell that you're using Tor Browser, but they won't be able to see what you did with Tor Browser. Some countries will use this to prevent people from accessing Tor Browser. If you need help [circumventing](https://tb-manual.torproject.org/circumvention/) a block on Tor Browser, you can try using a [bridge or a pluggable transport.](https://tb-manual.torproject.org/bridges/), both of which are built directly into Tor Browser. 
+
+Tor Browser also helps prevent against [fingerprinting](https://en.wikipedia.org/wiki/Device_fingerprint) by making your browser look incredibly average. However, it's important to make sure that you do not resize the Tor Browser window, as doing so makes your browser fingerprint more unique. You can test to see how strong your fingerprinting defense is [with EFF's tool Panopticlick,](https://panopticlick.eff.org/) but keep in mind that this testing tool is not foolproof or perfect.
+
+When using Tor Browser, you'll need to change some of your normal browsing behavior to keep your privacy protections as strong as possible:
+  * do not resize the Tor Browser window
+  * do not download things from the browser if possible, and do not torrent while using the tor network
+  * enable the included NoScript browser add-on
+  * adjust the security level as necessary by clicking the shield icon next to the URL bar
+  * do not use Tor Browser to access social media accounts or other accounts that can link you to your identity
+  * avoid sitting near surveillance cameras when using Tor Browser, as their video footage can be used to link you to your web activity
+  * do not use a VPN at the same time as Tor Browser
+
 <a name="otherbrowsers"></a>
 #### **(2.6.b) Other browsers**
 
@@ -343,9 +364,9 @@ If these are the only browser extensions you use, you'll be golden. Be wary of i
 <a name="vpn"></a>
 ### **(2.7) VPNs**
 
-A VPN is a tool that allows you to pass your internet traffic through another server. This sort of works like a basic disguise, because if anyone takes a quick look at who was accessing a certain website at a specific time, and they see your traffic, they'll see your VPN's IP address instead of your own. VPNs also encrypt your web traffic, which makes it harder for an onlooker to see what you're doing online. However, keep in mind that a VPN is not as secure as an anonymizing tool like [Tor Browser](#torbrowser) or [Tails.](#tails)
+A [VPN](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) is a tool that allows you to pass your internet traffic through another server. This sort of works like a basic disguise, because if anyone takes a quick look at who was accessing a certain website at a specific time, and they see your traffic, they'll see your VPN's IP address instead of your own. VPNs also encrypt your web traffic, which makes it harder for an onlooker to see what you're doing online. However, keep in mind that a VPN is not as secure as an anonymizing tool like [Tor Browser](#torbrowser) or [Tails.](#tails)
 
-It's important to do your research before choosing a VPN provider, as some VPN providers are not opposed to turning over data to the police when prompted.
+It's important to do your research before choosing a VPN provider, as some VPN providers are not opposed to turning over data to the police when prompted. For help picking a VPN, check out [EFF's guide here.](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
 
 <a name="freevpaidvpn"></a>
 #### **(2.7.a) Free vs. Paid**
@@ -551,6 +572,9 @@ While showing up physically to a protest is important to a movement, not all of 
 #### Donate to a [bail fund](#bailfunds)
 
 #### Donate to a gofundme
+
+  * Gofundme made by George Floyd's family: https://www.gofundme.com/f/georgefloyd
+  * Gofundme made by George Floyd's sister: https://www.gofundme.com/f/george-floyd-bigfloyd
 
 #### Donate to a local [BLM chapter](https://blacklivesmatter.com/chapters/)
 
