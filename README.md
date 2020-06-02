@@ -9,41 +9,42 @@ Digital security and protest advice for trans and LGBTQIA+ people in 2020.
     * [2.2 Smartphone apps for communicating and organizing](#smartphone)
       * [2.2.a Signal](#signal)
       * [2.2.b Telegram](#telegram)
-      * [2.2.c OTR Chat (Pidgin & Adium)](#OTRchat)
-      * [2.2.d Apps to avoid for organizing](#badapps)
-    * [2.3 Video chat](#vidchat)
-      * [2.3.a Meet Jitsi](#jitsi)
-      * [2.3.b Apps to avoid for video chat](#badvid)
-    * [2.4 Secure email](#secemail)
-      * [2.4.a PGP](#pgp)
-      * [2.4.b Thunderbird](#thunderbird)
-      * [2.4.c Secure email hosts](#mailhosts)
-    * [2.5 Anonymous web browsing](#anonweb)
-      * [2.5.a Tor Browser](#torbrowser)
-      * [2.5.b Other browsers](#otherbrowsers)
-      * [2.5.c Secure browsing behavior](#browsebehavior)
-    * [2.6 VPNs](#vpn)
-      * [2.6.a Free vs. Paid](freevpaidvpn)
-      * [2.6.b Riseup VPN](#riseupvpn)
-      * [2.6.c Firefox VPN](#firefoxvpn)
-    * [2.7 Tails](#tails)
-    * [2.8 Photos, Filming, Faces, and Metadata](#photosmeta)
-      * [2.8.a Filming, Photos, and Documenting](#documenting)
-      * [2.8.b Image-Scrubber](#imagescrubber)
-      * [2.8.c Obscuracam](#obscuracam)
-      * [2.8.d Scrambled EXIF](#scrambled)
-    * [2.9 Behavior & opsec](#digisecbehavior)
-    * [2.10 Advanced: Infrastructure, servers, and hosting](#infrastructure)
-      * [2.10.a How to setup your own cloud server](#how2cloudserver)
-      * [2.10.b How to install and use SSH to access a remote server](#how2ssh)
-      * [2.10.c How to host a jitsi video chat instance on your server](#how2jistihost)
-      * [2.10.d How to host a tor relay](#how2torrelay)
+      * [2.2.c Apps to avoid for organizing](#badapps)
+    * [2.3 OTR Chat for desktop computers ](#OTRchat)
+    * [2.4 Video chat](#vidchat)
+      * [2.4.a Meet Jitsi](#jitsi)
+      * [2.4.b Apps to avoid for video chat](#badvid)
+    * [2.5 Secure email](#secemail)
+      * [2.5.a PGP](#pgp)
+      * [2.5.b Thunderbird](#thunderbird)
+      * [2.5.c Secure email hosts](#mailhosts)
+    * [2.6 Anonymous web browsing](#anonweb)
+      * [2.6.a Tor Browser](#torbrowser)
+      * [2.6.b Other browsers](#otherbrowsers)
+      * [2.6.c Secure browsing behavior](#browsebehavior)
+    * [2.7 VPNs](#vpn)
+      * [2.7.a Free vs. Paid](freevpaidvpn)
+      * [2.7.b Riseup VPN](#riseupvpn)
+      * [2.7.c Firefox VPN](#firefoxvpn)
+    * [2.8 Tails](#tails)
+    * [2.9 Photos, Filming, Faces, and Metadata](#photosmeta)
+      * [2.9.a Filming, Photos, and Documenting](#documenting)
+      * [2.9.b Image-Scrubber](#imagescrubber)
+      * [2.9.c Obscuracam](#obscuracam)
+      * [2.9.d Scrambled EXIF](#scrambled)
+    * [2.10 Behavior & opsec](#digisecbehavior)
+    * [2.11 Advanced: Infrastructure, servers, and hosting](#infrastructure)
+      * [2.11.a How to setup your own cloud server](#how2cloudserver)
+      * [2.11.b How to install and use SSH to access a remote server](#how2ssh)
+      * [2.11.c How to host a jitsi video chat instance on your server](#how2jistihost)
+      * [2.11.d How to host a tor relay](#how2torrelay)
 3. [Protest safety](#protestsafety)
     * [3.1 General safety](#gensafety)
     * [3.2 Binder safety](#binders)
-    * [3.3 What to do if your ID doesn't match your gender](#govtid)
-    * [3.4 Organizations to call if you're in trouble](#orgstocall)
-      * [3.4.a Trans advocacy organizations](#transorgs)
+    * [3.3 First Aid](#firstaid)
+    * [3.4 What to do if your ID doesn't match your gender](#govtid)
+    * [3.5 Organizations to call if you're in trouble](#orgstocall)
+      * [3.5.a Trans advocacy organizations](#transorgs)
 4. [Mutual aid](#mutaid)
     * [4.1 Mutual aid groups by region](#mutaidreg)
       * [4.1.a USA](#mutaidUSA)
@@ -62,6 +63,8 @@ This guide isn't meant to scare you or make you extra paranoid. It's meant to be
 This advice is not one-size-fits-all. Your situation is almost certainly different from anyone else's, so it's important to remember that these tips might need some tweaking to be helpful to you. You may find that some of this advice is too much trouble for you, or that it involves a trade-off that you're not willing to make. That's okay! You don't have to do anything you don't want to. We'll try to give as many options as possible so that you can pick which solution works best for you.
 
 We are people who care about digital security, and who have devoted some part of our lives to keeping up to date with these things & teaching others how to stay safe, but _we are not experts._ Take all of this advice with a grain of salt, and always use your best judgement. 
+
+We'd also like to recommend [From Beirut to Minneapolis](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md), a guide to general protest safety written by some trusted folks who're Lebanese protestors, activists, and technologists. We've adapted some of their advice here.
 
 
 <a name="digisec"></a>
@@ -151,7 +154,7 @@ If you need more help with Signal, you can visit their official support page [he
 
 If you have more questions about Signal's security, you can read more [here.](https://support.signal.org/hc/en-us/categories/360000674811-Security)
 
-
+---
 
 <a name="telegram"></a>
 #### **(2.2.b) [Telegram](https://telegram.org/apps)**
@@ -162,23 +165,10 @@ Telegram is a chat app that allows encrypted communication. It is free and open-
 
 The thing with a group chat on telegram is that anyone can join or be invited, depending of the privacy settings of the group chat. This can be a bad thing for organizing. For example, if an undercover agent or an infiltrator convinces someone to join the group, they can see every message that's posted in the group. While this can happen in group chats on any app, the bigger maximum size of group chats on Telegram can make it harder to vet every new member. Keep this in mind when deciding whether to use Signal or Telegram to organize.
 
-<a name="OTRchat"></a>
-#### **(2.2.c) OTR Chat (Pidgin & Adium)**
-
-##### [Pidgin (Windows)](https://adium.im/help/pgs/AdvancedFeatures-OTREncryption.html)
-
-With the use of the pidgin-otr plugin, Pidgin allows people to use OTR (Off-the-Record) Messaging to communicate with eachother using end-to-end encrypted messages.
-
-For instructions on how to setup Pidgin with the OTR plugin, [click here.](https://adium.im/help/pgs/AdvancedFeatures-OTREncryption.html)
-
-##### [Adium (Mac)](https://adium.im/help/pgs/AdvancedFeatures-OTREncryption.html)
-
-Adium allows people to communicate through end-to-end encrypted messaging with its OTR (Off-the-Record) plugin.
-
-For instructions on how to setup Adium and its OTR plugin, [click here.] (https://adium.im/help/pgs/AdvancedFeatures-OTREncryption.html)
+---
 
 <a name="badapps"></a>
-#### **(2.2.d) [Apps to avoid for organizing](#badapps)**
+#### **(2.2.c) [Apps to avoid for organizing](#badapps)**
 
 ##### Messenger
 
@@ -195,14 +185,49 @@ Discord also has a policy which says that people should not "promote, encourage,
 
 Although Whatsapp uses end-to-end encryption, it's owned by Facebook. Facebook has a history of disregarding users' privacy, collecting and selling their data, and using it to influence elections. We don't trust Facebook for sensitive communication.
 
+[Here's a good piece from 2016](https://securityinabox.org/en/blog/2016-05-23/why-we-still-recommend-signal-over-whatsapp-even-though-they-both-use-end-to-end-encryption) on why Signal is still better than Whatsapp, even though they both use end-to-end encryption.
+
+---
+
+<a name="OTRchat"></a>
+### **(2.3) OTR Chat for desktop computers (Pidgin & Adium)**
+
+OTR Chat uses end-to-end encryption to secure your conversations. 
+
+#### [Pidgin (Windows)](https://otr.cypherpunks.ca/)
+
+With the use of the pidgin-otr plugin, Pidgin allows people to use OTR (Off-the-Record) Messaging to communicate with eachother using end-to-end encrypted messages.
+
+For instructions on how to setup Pidgin with the OTR plugin, [click here.](https://otr.cypherpunks.ca/)
+
+#### [Adium (Mac)](https://adium.im/help/pgs/AdvancedFeatures-OTREncryption.html)
+
+Adium allows people to communicate through end-to-end encrypted messaging with its OTR (Off-the-Record) plugin.
+
+For instructions on how to setup Adium and its OTR plugin, [click here.](https://adium.im/help/pgs/AdvancedFeatures-OTREncryption.html)
+
+---
+
 <a name="vidchat"></a>
-### **(2.3) Video chat**
+### **(2.4) Video chat**
 
 <a name="jitsi"></a>
-#### **(2.3.a) [Meet Jitsi](https://meet.jit.si/)**
+#### **(2.4.a) [Meet Jitsi](https://meet.jit.si/)**
+
+[Meet Jitsi](https://meet.jit.si/) is a free and open-source video chat platform that uses end-to-end encryption. To our knowledge, it's currently the most secure and trustworthy video chat platform available.
+
+To open up a video chat room, go to meet.jit.si and enter a name for the room. Try to make it difficult to guess. Then, give the URL for the room to the people you'd like to chat with. The URL will look something like this: meet.jit.si/yourroomnamehere
+
+You can add a password to the room once you've entered it by clicking 'Add password' at the bottom right corner of the screen, or by clicking the 'i' icon in the bottom right, then clicking 'Add password.'
+
+Note that by default, your video and audio will be automatically enabled when you enter the room. So, if you don't want to be seen or heard, make sure you disconnect or cover your camera and/or microphone before you enter the room. The person who creates the room can also adjust the settings when they enter the room to make sure that video and audio are not automatically enabled for people who join the room. To edit these settings, click the vertical ellipsis in the bottom right corner of the screen, then select 'Settings,' then 'More,' and tick the boxes labelled "Everyone starts muted" (for audio) and "Everyone starts hidden" (for video).
+
+Meet Jitsi is also available as an app called Jitsi Meet on [Apple](https://apps.apple.com/us/app/jitsi-meet/id1165103905) and [Android](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=en) devices. 
+
+You can also download Jitsi Meet on Android using F-Droid [here.](https://f-droid.org/en/packages/org.jitsi.meet/) If you don't already have F-Droid installed on your phone, you'll need to install it before you can use it to install other apps. You can install the F-Droid catalog by downloading the .apk file [directly from their website](https://f-droid.org/en/)) using your phone's browser.
 
 <a name="badvid"></a>
-#### **(2.3.b) Apps to avoid for video chat**
+#### **(2.4.b) Apps to avoid for video chat**
 
 ##### Skype
 
@@ -218,20 +243,47 @@ Discord doesn't use end-to-end encryption, which means that police or the NSA co
 Discord also has a policy which says that people should not "promote, encourage, or engage in any illegal behavior." It also does not allow the "organization, promotion, or support of violent extremism." Since the US government has recently said they'd like to declare certain activist organizations to be terrorist organizations, it would be safest to use another platform to communicate.
 
 <a name="secemail"></a>
-### **(2.4) Secure email**
+### **(2.5) Secure email**
+
+Unencrypted email can be intercepted while it's in transit, and anyone who catches one of these unencrypted emails in transit can read it and open its attachments. Luckily, there are tools which allow you to encrypt your email using end-to-end encryption.
+
+[End-to-end encryption](https://en.wikipedia.org/wiki/End-to-end_encryption) encodes a file so that it can only be read by the intended sender and recipient. The intended sender and recipient each have their own unique encryption keys which allow them to decode and read the encrypted file. This means that even if someone logs into your email from another computer, if they don't have your encryption key, they won't be able to read the encrypted email. 
+
+Even if YOU login to your email from another computer where your encryption key is not loaded into your email client, you will not be able to read your encrypted emails. This is important to consider when you decide whether or not to encrypt your email. For example, since I use encryption for my email, I can't read those encrypted emails on my phone. This can be obnoxious, but sometimes it's worth the trouble.
 
 <a name="pgp"></a>
-#### **(2.4.a) PGP**
+#### **(2.5.a) PGP**
+
+[PGP stands for "Pretty Good Privacy,"](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) and that's a great description. It's the most common encryption method for things like email, files, and whole-disk encryption. It can also be sort of a headache to understand when you first start using it. Most people use GnuPG to apply PGP encryption to things.
+
+If you want to encrypt your email, you'll need to use a few pieces of software:
+  * [Thunderbird](https://www.thunderbird.net/en-US/)
+  * [GnuPG](https://www.gnupg.org/)
+  * [Enigmail](https://addons.thunderbird.net/en-US/thunderbird/addon/enigmail/)
+
+In order to encrypt your email, you'll first need to generate a PGP key pair, which will include both a private and a public key. You can do this with [GnuPG.](https://www.gnupg.org/)
+
+Your *private* key is YOURS ALONE, and you should never share it with anyone. Your *public* key is the key you will share with others so that they can decrypt your email or other communications. Someone with your public key will be able to read encrypted emails that you send to them, but NOT encrypted emails that you send to or receive from other people. This is because you need both the sender's and the receiver's key in order to decrypt an email. It's all a bit more complicated than this, and honestly, I've never been able to explain it well, so I recommend finding another source if you want to learn more about it.
+
+You can upload your public keys to a [public key server](https://ssd.eff.org/en/glossary/public-key-servers) (like the [MIT public key server](https://pgp.mit.edu/)) so that people can easily find your key. Email clients like Thunderbird with Enigmail can also automatically search for a public key associated with an email address, which makes communicating with someone new SO much easier.
+
+I personally had a lot of trouble setting up PGP, so if someone else has better instructions or resources on how to do it, please let me know!
 
 <a name="thunderbird"></a>
-#### **(2.4.b) Thunderbird**
+#### **(2.5.b) Thunderbird**
+
+Thunderbird is a free email client that allows encryption through the plugin Enigmail.
+
+[This official help article from Mozilla](https://support.mozilla.org/en-US/kb/digitally-signing-and-encrypting-messages) walks you through the process of setting up PGP to be used with Thunderbird for email encryption.
 
 <a name="mailhosts"></a>
-#### **(2.4.c) Secure email hosts**
+#### **(2.5.c) Secure email hosts**
+
+If you want to make sure your email files are stored on a secure server, you can make an account with a host that uses end-to-end encryption to store your email files. Alternatively, you can use POP3 to access your email, which means that your emails will only be stored locally on your computer, and not on a remote server. However, keep in mind that using POP3 also means that you won't be able to access your previously read emails from anywhere. If you want to be able to access your email anywhere, and to do it securely, we recommend you use IMAP and create an account with one of the hosts listed below.
 
 ##### [Riseup.net](https://riseup.net)
 
-Riseup.net offers end-to-end encrypted email hosting, as well as a bunch of other services. Their goal is to keep activists safe online. They are committed to never turn over any of your data to law enforcement.
+Riseup.net offers end-to-end encrypted email hosting, as well as a bunch of other services. Their goal is to keep activists safe online. They are committed to never turn over any of your data to law enforcement. They also allow you to delete all of your data and your account if you ever need to.
 
 To create a Riseup account, you'll need an invite code. You'll have to get an invite code from someone you know who's had a Riseup account for more than 3 months. If you have a Riseup account, you can generate a new invite code from the [invites page.](https://account.riseup.net/invites)
 
@@ -245,17 +297,19 @@ Proton Mail offers end-to-end encrypted email hosting. You can create an account
 
 ##### [Counter Mail](https://countermail.com/)
 ##### [Hushmail](https://www.hushmail.com/)
-##### [mailfence](https://mailfence.com/)
+##### [Mailfence](https://mailfence.com/)
 ##### [Tutanota](https://tutanota.com/) 
 
 <a name="anonweb"></a>
-### **(2.5) Anonymous web browsing**
+### **(2.6) Anonymous web browsing**
+
+Normally, when you access the internet using a web browser, your IP address is visible to the server where the website is hosted. 
 
 <a name="torbrowser"></a>
-#### **(2.5.a) [Tor Browser](https://www.torproject.org/download/)**
+#### **(2.6.a) [Tor Browser](https://www.torproject.org/download/)**
 
 <a name="otherbrowsers"></a>
-#### **(2.5.b) Other browsers**
+#### **(2.6.b) Other browsers**
 
 ##### Brave
 
@@ -266,7 +320,7 @@ Firefox has recently added a bunch of new privacy-minded features to their brows
 While Firefox is the least private of any of the browsers here, it is the best option for regular, low-risk browsing. We highly recommend using it instead of Chrome or Safari. 
 
 <a name="browsebehavior"></a>
-#### **(2.5.c) Secure browsing behavior**
+#### **(2.6.c) Secure browsing behavior**
 
 Browsing the internet safely and securely takes more than just an anonymizing browser. You'll need to make some changes to your regular browsing behavior, too. 
 
@@ -287,26 +341,52 @@ HTTPS everywhere https://www.eff.org/https-everywhere
 If these are the only browser extensions you use, you'll be golden. Be wary of installing browser extensions from untrusted or unknown sources.
 
 <a name="vpn"></a>
-### **(2.6) VPNs**
+### **(2.7) VPNs**
+
+A VPN is a tool that allows you to pass your internet traffic through another server. This sort of works like a basic disguise, because if anyone takes a quick look at who was accessing a certain website at a specific time, and they see your traffic, they'll see your VPN's IP address instead of your own. VPNs also encrypt your web traffic, which makes it harder for an onlooker to see what you're doing online. However, keep in mind that a VPN is not as secure as an anonymizing tool like [Tor Browser](#torbrowser) or [Tails.](#tails)
+
+It's important to do your research before choosing a VPN provider, as some VPN providers are not opposed to turning over data to the police when prompted.
 
 <a name="freevpaidvpn"></a>
-#### **(2.6.a) Free vs. Paid**
+#### **(2.7.a) Free vs. Paid**
+
+Free VPNs can sometimes be less trustworthy, because some of them pay for their server costs by selling people's data. 
+
+That being said, there's not really anything keeping a paid VPN provider from doing the same thing. 
 
 <a name="riseupvpn"></a>
-#### **(2.6.b) [Riseup VPN](https://riseup.net/en/vpn)**
+#### **(2.7.b) [Riseup VPN](https://riseup.net/en/vpn)**
 
 Riseup offers a free VPN service. Their goal is to keep activists safe online. They are committed to never turn over any of your data to law enforcement.
 
 To create a Riseup account, you'll need an invite code. You'll have to get an invite code from someone you know who's had a Riseup account for more than 3 months. If you have a Riseup account, you can generate a new invite code from the [invites page.](https://account.riseup.net/invites)
 
+Because Riseup is a non-profit and volunteer-run organization, their servers are paid for with donations from volunteers. This also means that their server capacity isn't huge, and sometimes, their servers get overloaded. This is just something to keep in mind.
+
+Personally, I trust Riseup more than any of the other providers on this list, and they are my first choice for a VPN.
+
 <a name="firefoxvpn"></a>
-#### **(2.6.c) Firefox VPN**
+#### **(2.7.c) Firefox VPN**
+
+Firefox offers a paid VPN service for $4.99 USD/month. Mozilla is generally fairly trustworthy, and has a track record of taking care of people's security and privacy. However, the VPN service is relatively new, and I'm not sure if it's been audited yet to verify its security and privacy practices. 
+
+##### Other paid VPN providers
+
+I can't recommend or anti-recommend any of these providers, so please do your research before making a decision.
+
+[NordVPN](https://nordvpn.com/): price varies based on the duration of your plan, but the base monthly price is $11.95 USD/month
 
 <a name="tails"></a>
-### **(2.7) [Tails](https://tails.boum.org/install/index.en.html)**
+### **(2.8) [Tails](https://tails.boum.org/install/index.en.html)**
+
+[Tails](https://tails.boum.org/install/index.en.html) is "The Amnesic Incognito Live System." It is an operating system which routes all internet traffic through the [tor network,](https://en.wikipedia.org/wiki/Tor_(anonymity_network)) and leaves no trace of its use on the computer where it's used. You can install it on a USB drive and run the OS from any computer, or you can install it next to the existing OS on your computer and boot into it whenever you want privacy.
+
+You can also install Tails in a way that allows you to save files to your Tails OS, and also encrypts the entire partition used for Tails. Otherwise, everything you do on Tails will disappear automatically when you shut down Tails.
+
+To install Tails on a USB, you'll need a computer with at least 1.2 GB of storage space, a USB with at least 16 GB of storage space, and at least 30 minutes to run the installation process. You can [download Tails and get started here.](https://tails.boum.org/install/index.en.html)
 
 <a name="photosmeta"></a>
-### **(2.8) Photos, filming, faces, and metadata**
+### **(2.9) Photos, filming, faces, and metadata**
 
 When you take a photo or video on your phone, your phone automatically saves some information about when and where the photo was taken, as well as the kind of phone used to take the photo/video. This data is called 'metadata,' or more specifically, EXIF data. This data can be easily viewed by anyone, and law enforcement can use it to identify when and where a photo/video was taken. This makes it easier for law enforcement to identify who took the photo/video, or who might appear in it. 
 
@@ -317,22 +397,22 @@ While documenting what happens at a protest can be important, it's also importan
 It's important to note that obscuring a feature using a black square or other image is often much safer than simply blurring it. This is because tools exist which make un-blurring an image relatively easy. For this reason, it's generally better to obscure a feature instead of blurring it, if you can.
 
 <a name="documenting"></a>
-#### **(2.8.a) Filming and documenting safely**
+#### **(2.9.a) Filming and documenting safely**
 
 <a name="imagescrubber"></a>
-#### **(2.8.b) [Image-scrubber](https://everestpipkin.github.io/image-scrubber/)**
+#### **(2.9.b) [Image-scrubber](https://everestpipkin.github.io/image-scrubber/)**
 
 [Image-scrubber](https://everestpipkin.github.io/image-scrubber/) is a browser-based tool that allows you to remove EXIF metadata from photos and blur/obscure faces or identifying features. You can use the tool from your phone's browser, regardless of your phone's OS. The photos you edit using this tool aren't sent anywhere when you edit them: all the editing is done on your phone instead of on a remote server.
 
 <a name="obscuracam"></a>
-#### **(2.8.c) [Obscuracam](https://guardianproject.info/apps/obscuracam/)**
+#### **(2.9.c) [Obscuracam](https://guardianproject.info/apps/obscuracam/)**
 
 [Obscuracam](https://guardianproject.info/apps/obscuracam/) is an app developed by [the Guardian Project.](https://guardianproject.info/) Obscuracam allows you to remove any metadata from a photo or video. The app also has automatic face detection, which makes quickly blurring a large number of faces in a photo or video super easy.
 
 The app is available for Android on the [Google Play store](https://play.google.com/store/apps/details?id=org.witness.sscphase1&feature=search_result) and on [F-Droid.](https://f-droid.org/en/packages/org.witness.sscphase1/) If you don't already have F-Droid installed on your phone, you'll need to [install the F-Droid .apk](https://f-droid.org/en/) before you can use it to install other apps. You can install the F-Droid store by downloading the .apk file [directly from their website](https://f-droid.org/en/)) using your phone's browser.
 
 <a name="scrambled"></a>
-#### **(2.8.d) [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)**
+#### **(2.9.d) [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)**
 
 [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) is an app that allows you to easily remove EXIF data from a photo or video before sharing it. 
 
@@ -341,7 +421,7 @@ The app is available for Android on the [Google Play store](https://play.google.
 To use the app, tap the 'share' button in another app, then select Scrambled Exif from the list of options. This will tell Scrambled Exif to remove the EXIF data from your file. Once the EXIF data has been removed, another share window will open, and you'll be able to send the file using any app on your phone.
 
 <a name="digisecbehavior"></a>
-### **(2.9) Behavior and social organization**
+### **(2.10) Behavior and social organization**
 
 Beware of undercover cops in your group chats and online organizing groups, but also be wary of people accusing others of being narcs/spies/undercover cops. Accusing others can be a tactic to sow distrust in a movement. 
 
@@ -350,14 +430,14 @@ Both of these reasons mean that sometimes it's best to organize in small groups 
 Be wary of using your real name: in the US, finding someone's address with only their name is trivial, thanks to data brokers like Spokeo and Whitepages.
 
 <a name="infrastructure"></a>
-### **(2.10) Advanced: Infrastructure, servers, and hosting**
+### **(2.11) Advanced: Infrastructure, servers, and hosting**
 
 This section is for people who are willing to dig deep to learn about digital security. Beware that once you start down this path, you'll need to know A LOT to make sure the websites and resources you're building are secure. Either that, or you'll need to find a friend who knows a lot.
 
 If you want to get started learning how to setup digital infrastructure like cloud servers, websites, and hosting resources, Digital Ocean is a great place to start. Their [documentation](https://www.digitalocean.com/community/tutorials) is a treasure trove of easy to understand instructions on how to do almost anything on a digital server. I've learned half of what I know from their user-created tutorials.
 
 <a name="how2cloudserver"></a>
-#### **(2.10.a) How to setup your own cloud server**
+#### **(2.11.a) How to setup your own cloud server**
 
 If you want to setup your own cloud server for whatever reason, you'll first need to:
   * pick a hosting provider and create an account with them
@@ -372,13 +452,13 @@ All that being said, Digital Ocean may not be the best place to host your stuff.
 If you're up to it, the best OS for running a cloud server is [Linux.](https://en.wikipedia.org/wiki/Linux) This is because it really gives you the most control over your server. Linux might seem intimidating, but speaking as someone who was terrified of it in the past and now uses it almost exclusively, you can ABSOLUTELY learn how to use it. If you're intimidated by terminals and Linux in general, [Ubuntu](https://ubuntu.com/) is a great Linux distribution to start with. However, if you really don't want to get into all that right now, go ahead and use whatever OS you're most comfortable with.
 
 <a name="how2SSH"></a>
-#### **(2.10.b) How to install and use SSH to access a remote server**
+#### **(2.11.b) How to use SSH to access a remote server**
 
 <a name="how2jistihost"></a>
-#### **(2.10.c) How to host a Jitsi video chat instance on your server**
+#### **(2.11.c) How to host a Jitsi video chat instance on your server**
 
 <a name="how2torrelay"></a>
-#### **(2.10.d) How to host a tor relay**
+#### **(2.11.d) How to host a tor relay**
 
 This is a bonus, but building up the infrastructure of the Tor network helps to protect activists who need Tor to stay safe.
 
@@ -393,6 +473,8 @@ Tor has an [official guide on how to setup a tor relay,](https://trac.torproject
 
 <a name="protestsafety"></a>
 ## **(3.0) Protest Safety**
+
+One of the best guides we've seen so far is [From Beirut to Minneapolis](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md), written by Lebanese protestors, technologists, and activists based on their experiences with the ongoing protests in Lebanon. We've adapted some of their tips here, and added some of our own.
 
 <a name="gensafety"></a>
 ### **(3.1) General Safety**
@@ -416,20 +498,28 @@ Instead, you might want to use a sports bra, since it restricts breathing less t
 
 In general, follow the same guidelines that you would when exercising, and be sure that you can remove whatever you're wearing easily in case you're exposed to tear gas or pepper spray.
 
-<a name="govtid"></a>
-### **(3.3) What to do if your ID doesn't match your gender**
+<a name="firstaid"></a>
+### **(3.3) First Aid**
 
-Ideas:
-- backpass, if you can/want to (play along as if the gender on your ID is correct)
-- bring other documents to corroborate your name, maybe? like a phone bill or utilities bill that has your name and address on it. but, could this be used against you somehow?
-- know the laws in your state regarding ID, protesting, and trans rights
-- have a friend with you to advocate for you
+Tear gas & riot control agents
+
+<a name="govtid"></a>
+### **(3.4) What to do if your ID doesn't match your gender**
+
+This issue is difficult, as it seems the law is pretty vague and unhelpful.
+
+Some ideas for what to do if you're arrested/accosted by police, and they ask why your ID doesn't match your gender:
+  * backpass (play along as if the gender on your ID is correct), if you feel comfortable and safe doing so
+  * bring other documents to corroborate your name, like a phone bill or utilities bill that has your name and address on it. However, it's possible that this could be used against you, and you might not have time to use it.
+  * know the laws in your state regarding ID, protesting, and trans rights
+  * have a friend with you to advocate for you, record video or audio, and act as a witness
+  * avoid confrontations with the police, and avoid arrest as much as possible. If you don't want to get arrested, then you can back out if things start going south.
 
 <a name="orgstocall"></a> 
-### **(3.4) Organizations to call if you're in trouble**
+### **(3.5) Organizations to call if you're in trouble**
 
 <a name=""></a>
-#### **(3.4.a) Trans advocacy organizations**
+#### **(3.5.a) Trans advocacy organizations**
 
 (alhpabetical by state)
 
@@ -481,6 +571,8 @@ While showing up physically to a protest is important to a movement, not all of 
 
 [Hacking//Hustling: Doxxing Prevention Harm Reduction Training](https://hackinghustling.org/doxxing-prevention-harm-reduction-training/)
   * a guide and video workshop designed for LGBTQIA+ people, sex workers, and protestors.
+  
+[ACLU's guide for legal observers](https://www.aclusc.org/sites/default/files/wysiwyg/legal_observers_final_new_branding.pdf)
   
 [EFF (Electronic Frontier Foundation)](https://www.eff.org/)
   * [Digital Security Tips for Protestors (2016)](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
