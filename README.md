@@ -298,7 +298,15 @@ To use the app, tap the 'share' button in another app, then select Scrambled Exi
 <a name="gensafety"></a>
 ### (3.1) General Safety
 
+#### Tear Gas
+
 [CDC Fact Sheet on Tear Gas](https://emergency.cdc.gov/agent/riotcontrol/factsheet.asp)
+
+Tear gas can stick to face paint and makeup, so it's best to go without. Wearing nylons or fishnets can also aggravate the effects of tear gas and other riot control agents.
+
+#### Facial recognition tech
+
+If you want to confuse facial recognition technology, the best tactic is to wear a face mask and glasses, and this has the added benefit of protecting you from COVID-19.
 
 <a name="binders"></a>
 ### (3.2) Binder safety
