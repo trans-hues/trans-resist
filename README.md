@@ -151,12 +151,14 @@ If you need more help with Signal, you can visit their official support page [he
 
 If you have more questions about Signal's security, you can read more [here.](https://support.signal.org/hc/en-us/categories/360000674811-Security)
 
+
+
 <a name="telegram"></a>
 #### **(2.2.b) [Telegram](https://telegram.org/apps)**
 
 Telegram is a chat app that allows encrypted communication. It is free and open-source. Generally, it is considered to be less secure than Signal, but sometimes it is preferred for certain features, like the ability to make bigger group chats. However, it's generally recommended that, whenever possible, you use Signal rather than Telegram for sensitive communication.
 
-##### [Group Chats]
+##### Group Chats
 
 The thing with a group chat on telegram is that anyone can join or be invited, depending of the privacy settings of the group chat. This can be a bad thing for organizing. For example, if an undercover agent or an infiltrator convinces someone to join the group, they can see every message that's posted in the group. While this can happen in group chats on any app, the bigger maximum size of group chats on Telegram can make it harder to vet every new member. Keep this in mind when deciding whether to use Signal or Telegram to organize.
 
