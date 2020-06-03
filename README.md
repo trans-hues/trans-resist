@@ -84,7 +84,7 @@ If you're planning on going to a protest, consider turning off your phone or lea
 
 If you want to bring your phone with you, and if you have a farraday bag, bring it to the protest and keep your phone inside and powered off. If you don't have one, you can make one using [this guide.](https://www.instructables.com/id/EASIEST-FARADAY-PHONE-POUCH/)
 
-If you do not feel safe leaving your phone at home, then make sure to:
+**If you do not feel safe leaving your phone at home, then make sure to:**
   * put it in airplane mode
   * turn off location services
   * enable a strong passcode (NOT FaceID or a fingerprint ID) (Settings > Security/Privacy)
@@ -95,13 +95,13 @@ If you do not feel safe leaving your phone at home, then make sure to:
   * Turn off lockscreen notifications (Settings > Notifications)
   * use a secure messaging app like Signal to communicate with others
 
-##### Downloading apps
+#### Downloading apps
 
 Consider downloading [F-Droid](https://f-droid.org/en/about/) and using it to install apps on your Android phone when possible. The Google Play store can keep track of which apps you download, and can also track people in other ways. F-droid is open-source, and does not track you or your phone. It also allows you to search for and install FOSS (free and open-source software) for your phone.
 
 If you want to install apps using F-Droid, you'll need to [install the F-Droid .apk](https://f-droid.org/en/) before you can use it to install other apps. You can install the F-Droid catalog by downloading the .apk file [directly from their website](https://f-droid.org/en/) using your phone's browser.
 
-##### Location services
+#### Location services
 
 Android phones are run on Google services, and Google tracks where you go with your phone, sometimes even when you have GPS turned off. To minimize how much Google is able to track you, [follow this guide.](https://www.theverge.com/2019/4/12/18302306/android-101-location-tracking-stop-how-to) You can also check out Google's official help article on [how to turn off location services.](https://support.google.com/accounts/answer/3467281?hl=en)
 
