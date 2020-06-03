@@ -784,26 +784,21 @@ Some bail funds will also help you through the release process, and provide some
 
 While showing up physically to a protest is important to a movement, not all of us are able to risk it: some of us are undocumented, some of us have vulnerable immune systems, and some of us have disabilities. There are plenty of legitimate reasons why someone might not be able to attend a protest, or why someone might not feel safe attending a protest.
 
-###Some other ways to help organize from home:
+### Some other ways to help organize from home:
 
-#### Donate to a [bail fund](#bailfunds)
-
-#### [Split a donation between 70+ community bail funds, mutual aid funds, and racial justice organizers:](https://secure.actblue.com/donate/bail_funds_george_floyd) https://secure.actblue.com/donate/bail_funds_george_floyd
-
-#### Donate to a gofundme
-
-  * [Gofundme made by George Floyd's family:](https://www.gofundme.com/f/georgefloyd) https://www.gofundme.com/f/georgefloyd
-  * [Gofundme made by George Floyd's sister:](https://www.gofundme.com/f/george-floyd-bigfloyd) https://www.gofundme.com/f/george-floyd-bigfloyd
-  * [Gofundme made by Breonna Taylor's familky:](https://www.gofundme.com/f/9v4q2-justice-for-breonna-taylor) https://www.gofundme.com/f/9v4q2-justice-for-breonna-taylor
-
-#### Donate to a local [BLM chapter](https://blacklivesmatter.com/chapters/): https://blacklivesmatter.com/chapters/
-
-#### Provide support for your friends who are at a protest
-  * Listen to police scanners using https://www.broadcastify.com/ and relay information to someone at the protest
-  * Keep an eye on social media to watch for developments
-  * Ask your friends to message you when they're leaving home and when they arrive home safe
-  * If your home is near a protest location, consider offering to let people use your bathroom or refill waterbottles
-  * If you feel comfortable doing so, and especially if you benefit from white privilege, shelter protesters in your home if they are fleeing police violence
+  * Donate to a [bail fund](#bailfunds)
+  * [Split a donation between 70+ community bail funds, mutual aid funds, and racial justice organizers:](https://secure.actblue.com/donate/bail_funds_george_floyd) https://secure.actblue.com/donate/bail_funds_george_floyd
+  * Donate to a gofundme
+    * [Gofundme made by George Floyd's family:](https://www.gofundme.com/f/georgefloyd) https://www.gofundme.com/f/georgefloyd
+    * [Gofundme made by George Floyd's sister:](https://www.gofundme.com/f/george-floyd-bigfloyd) https://www.gofundme.com/f/george-floyd-bigfloyd
+    * [Gofundme made by Breonna Taylor's familky:](https://www.gofundme.com/f/9v4q2-justice-for-breonna-taylor) https://www.gofundme.com/f/9v4q2-justice-for-breonna-taylor
+  * Donate to a local [BLM chapter](https://blacklivesmatter.com/chapters/): https://blacklivesmatter.com/chapters/
+  * Provide support for your friends who are at a protest
+    * Listen to police scanners using https://www.broadcastify.com/ and relay information to someone at the protest
+    * Keep an eye on social media to watch for developments
+    * Ask your friends to message you when they're leaving home and when they arrive home safe
+    * If your home is near a protest location, consider offering to let people use your bathroom or refill waterbottles
+    * If you feel comfortable doing so, and especially if you benefit from white privilege, shelter protesters in your home if they are fleeing police violence
 
 ---
 
