@@ -708,6 +708,9 @@ Some bail funds will also help you through the release process, and provide some
     * [Donate:](https://www.bukitbailfund.org/donate) https://www.bukitbailfund.org/donate
     
 **Washington State (WA):**
+  * [Black Lives Matter Seattle Freedom Fund](https://blacklivesseattle.org/bail-fund/)
+    * [Website:](https://blacklivesseattle.org/bail-fund/) https://blacklivesseattle.org/bail-fund/
+    * [Donate to the BLM Seattle chapter:](https://blacklivesseattle.org/donate/) https://blacklivesseattle.org/donate/
   * [Northwest Community Bail Fund](https://www.nwcombailfund.org/)
     * NCBF provides cash bail for those who are unable to pay due to poverty, are charged with crimes in King and Snohomish Counties, and have no other holds.
     * [Website:](https://www.nwcombailfund.org/) https://www.nwcombailfund.org/
