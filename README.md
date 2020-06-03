@@ -609,7 +609,7 @@ Remember that if you're not trained to give someone medical treatment, and someo
 <a name="govtid"></a>
 ### **(3.4) What to do if your ID doesn't match your gender**
 
-This issue is difficult, as it seems the law is pretty vague and unhelpful.
+It can be hard to know what to do in this situation, and the law is pretty vague and unhelpful.
 
 Some ideas for what to do if you're arrested/accosted by police, and they ask why your ID doesn't match your gender:
   * backpass (play along as if the gender on your ID is correct), if you feel comfortable and safe doing so
@@ -658,6 +658,61 @@ Some bail funds will also help you through the release process, and provide some
 
 (alphabetical by state)
 
+**National:**
+  * [LGBTQ Freedom Fund](https://www.lgbtqfund.org/) 
+    * [Website:](https://www.lgbtqfund.org/) https://www.lgbtqfund.org/
+    * [Donate:](https://www.lgbtqfund.org/donate-1) https://www.lgbtqfund.org/donate-1
+    * [Contact:](https://www.lgbtqfund.org/our-impact) https://www.lgbtqfund.org/our-impact
+    
+  * [The Bail Project](https://bailproject.org/)
+    * [Website:](https://bailproject.org/) https://bailproject.org/
+    * [Donate:](https://secure.givelively.org/donate/the-bail-project) https://secure.givelively.org/donate/the-bail-project
+    
+  * [Restoring Justice Community Bail Fund](https://www.restoringjustice.org/bail)
+    * [Website:](https://www.restoringjustice.org/bail) https://www.restoringjustice.org/bail
+    * [Donate:](https://www.restoringjustice.org/give) https://www.restoringjustice.org/give
+    
+**Connecticut (CT):**
+  * [Connecticut Bail Fund](https://www.ctbailfund.org/)
+    * [Website:](https://www.ctbailfund.org/) https://www.ctbailfund.org/
+    * [Donate:](https://ctbailfund.z2systems.com/np/clients/ctbailfund/donation.jsp) https://ctbailfund.z2systems.com/np/clients/ctbailfund/donation.jsp
+    
+**Illinois (IL):**
+  * Chicago Community Bond Fund 
+    * *Currently not accepting new requests for help paying bond at this time.* However, they are still available to help people arrested for protesting, in coordination with the [National Lawyers Guild of Chicago.](https://nlgchicago.org/) If you need legal representation, they ask that you call NLG of Chicago at 773-309-1198.
+    * [Website:](https://chicagobond.org/) https://chicagobond.org/
+    * [Donate:](https://chicagobond.org/donate/) https://chicagobond.org/donate/
+    * [Request help:](https://chicagobond.org/the-revolving-fund-2/) https://chicagobond.org/the-revolving-fund-2/
+  
+**Kentucky (KY):**
+  * Louisville Community Bail Fund
+    * Exists not only to bail out folks, but to provide post-release support to get them from jail, fed and to a situation of safety. LCBF also maintains a focus on preventative measures for those targeted by law enforcement and threatened with incarceration.
+    * [Facebook group:](https://www.facebook.com/groups/1977488899150776) https://www.facebook.com/groups/1977488899150776
+    * [Donate:](https://actionnetwork.org/fundraising/louisville-community-bail-fund/) https://actionnetwork.org/fundraising/louisville-community-bail-fund/
+    
+**North Carolina (NC):**
+  * [Forsyth County Bail Fund](https://forsythcountycbf.org/)
+    * [Website:](https://forsythcountycbf.org/) https://forsythcountycbf.org/
+    
+**Pennsylvania (PA):**
+  * [Philadelphia Bail Fund](https://www.phillybailfund.org/)
+    * [Website:](https://www.phillybailfund.org/) https://www.phillybailfund.org/
+    * [Donate:](https://www.phillybailfund.org/donate) https://www.phillybailfund.org/donate
+  * [Dauphin County Bail Fund](https://dauphincountybailfund.org/)
+    * [Website:](https://dauphincountybailfund.org/) https://dauphincountybailfund.org/
+    * [Donate:](https://dauphincountybailfund.org/donate/) https://dauphincountybailfund.org/donate/
+    * [Request Help:](https://dauphincountybailfund.org/request-help/) https://dauphincountybailfund.org/request-help/
+  * [Bukit Bail Fund of Pittsburgh](https://www.bukitbailfund.org/)
+    * [Website:](https://www.bukitbailfund.org/) https://www.bukitbailfund.org/
+    * [Donate:](https://www.bukitbailfund.org/donate) https://www.bukitbailfund.org/donate
+    
+**Washington State (WA):**
+  * [Northwest Community Bail Fund](https://www.nwcombailfund.org/)
+    * NCBF provides cash bail for those who are unable to pay due to poverty, are charged with crimes in King and Snohomish Counties, and have no other holds.
+    * [Website:](https://www.nwcombailfund.org/) https://www.nwcombailfund.org/
+    * [Donate:](https://donorbox.org/ncbf) https://donorbox.org/ncbf
+    * [Request Help (google form):](https://docs.google.com/forms/d/e/1FAIpQLSdezm3QHDjN8psqNpw5KDCz4FXO1wTNz9QKh_-OuX_KhaThXg/viewform) https://docs.google.com/forms/d/e/1FAIpQLSdezm3QHDjN8psqNpw5KDCz4FXO1wTNz9QKh_-OuX_KhaThXg/viewform
+
 ---
 
 <a name="mutaid"></a>
@@ -670,10 +725,57 @@ Some bail funds will also help you through the release process, and provide some
 ### **(4.1.a) USA**
 (alphabetical by state)
 
+**National:**
+  * [National COVID-19 Mutual Aid document (Google Docs):](https://docs.google.com/document/d/1dpMzMzsA83jbVEXS8m7QKOtK4nj6gIUk1U1t6P4wShY/edit) https://docs.google.com/document/d/1dpMzMzsA83jbVEXS8m7QKOtK4nj6gIUk1U1t6P4wShY/edit
+  * [It's Going Down - Resources for Mutual Aid Organizing:](https://itsgoingdown.org/autonomous-groups-are-mobilizing-mutual-aid-initiatives-to-combat-the-coronavirus/) https://itsgoingdown.org/autonomous-groups-are-mobilizing-mutual-aid-initiatives-to-combat-the-coronavirus/
+
+**California (CA):**
+  * [Los Angeles Covid-19 Mutual Aid Network (Gofundme):](https://www.gofundme.com/f/covid19-mutual-aid-network) https://www.gofundme.com/f/covid19-mutual-aid-network
+
+**Georgia (GA):**
+  * [Metro Atlanta Mutual Fund (website):](https://www.atlantamutualaid.org/) https://www.atlantamutualaid.org/
+
+**Kentucky (KY):**
+  * [Louisville Mutual Aid (Gofundme):](https://www.gofundme.com/f/louisville-mutual-aid-a-new-world-is-possible) https://www.gofundme.com/f/louisville-mutual-aid-a-new-world-is-possible
+
+**Massachusetts (MA):**
+  * [Boston Solidarity Supply Distro (fundrazr):](https://fundrazr.com/f1dTp3?ref=ab_00qJXsXpLia00qJXsXpLia)  https://fundrazr.com/f1dTp3?ref=ab_00qJXsXpLia00qJXsXpLia
+
+**Missouri (MO):**
+  * [St. Louis Mutual Aid (Donorbox):](https://donorbox.org/stl-mutual-aid-fund) https://donorbox.org/stl-mutual-aid-fund
+  
+**Minnesota (MN):**
+  * [Minneapolis Defend Glendale & Public Housing Coalition (Action Network):](https://actionnetwork.org/fundraising/public-goods/) https://actionnetwork.org/fundraising/public-goods/
+
+**New Mexico (NM):**
+  * [Fight For Our Lives - ABQ Mutual Aid (website):](http://www.ffol.org/mutualaid.html) http://www.ffol.org/mutualaid.html
+
+**New York (NY):**
+  * [Richmond (Paypal):](https://www.paypal.me/richmondmutualaid) https://www.paypal.me/richmondmutualaid
+  * [Mutual Aid NYC (Website):](https://mutualaid.nyc/get-involved/donate/) https://mutualaid.nyc/get-involved/donate/
+ 
+**Ohio (OH):**
+  * [Cleveland Pandemic Response - COVID-19 Community Hub (website)](https://cleveland.recovers.org/) https://cleveland.recovers.org/
+  
+**Pennsylvania (PA):**
+  * [Mutual Aid Philadelphia (Paypal):](https://www.paypal.com/pools/c/8oNSd8W8KH) https://www.paypal.com/pools/c/8oNSd8W8KH
+
+**Utah (UT):**
+  * [Salt Lake Valley COVID Mutual Aid](https://www.covid19mutualaidslc.com/) https://www.covid19mutualaidslc.com/
+
+**Washington State (WA):**
+  * [Seattle COVID-19 Survival Fund for the People (Gofundme):](https://www.gofundme.com/f/covid19-survival-fund-for-the-people) https://www.gofundme.com/f/covid19-survival-fund-for-the-people
+
+**Washington, DC :**
+  * [East Of The River Mutual Aid Fund (Gofundme)](https://www.gofundme.com/f/blmcovid) https://www.gofundme.com/f/blmcovid
+
 <a name="mutaidCAN"></a>
 ### **(4.1.b) Canada**
   * Toronto, ON:
-    * https://www.the519.org/
+    * [The 519 (website):](https://www.the519.org/) https://www.the519.org/
+    
+  * Montreal, QC:
+    * [Taking What We Need (Facebook group):](https://www.facebook.com/takingwhatweneed/) https://www.facebook.com/takingwhatweneed/
 
 ---
 
@@ -686,10 +788,13 @@ While showing up physically to a protest is important to a movement, not all of 
 
 #### Donate to a [bail fund](#bailfunds)
 
+#### [Split a donation between 70+ community bail funds, mutual aid funds, and racial justice organizers:](https://secure.actblue.com/donate/bail_funds_george_floyd) https://secure.actblue.com/donate/bail_funds_george_floyd
+
 #### Donate to a gofundme
 
   * [Gofundme made by George Floyd's family:](https://www.gofundme.com/f/georgefloyd) https://www.gofundme.com/f/georgefloyd
   * [Gofundme made by George Floyd's sister:](https://www.gofundme.com/f/george-floyd-bigfloyd) https://www.gofundme.com/f/george-floyd-bigfloyd
+  * [Gofundme made by Breonna Taylor's familky:](https://www.gofundme.com/f/9v4q2-justice-for-breonna-taylor) https://www.gofundme.com/f/9v4q2-justice-for-breonna-taylor
 
 #### Donate to a local [BLM chapter](https://blacklivesmatter.com/chapters/): https://blacklivesmatter.com/chapters/
 
@@ -720,6 +825,11 @@ While showing up physically to a protest is important to a movement, not all of 
   * English: https://www.aclu.org/know-your-rights/protesters-rights/
   * Español: https://www.aclu.org/know-your-rights/derechos-de-los-manifestantes
 
+[United We Dream]
+  * ["Know your rights; know your power" (EN, ESP, +)](https://unitedwedream.org/heretostay/know-your-power/)
+  * [How to verify online reports of ICE raids/Cómo verificar reportes en línea sobre las redadas de ICE]
+    * [English](https://unitedwedream.org/wp-content/uploads/2019/09/RealOrRumor_VerifyRaids_20190819.pdf)
+    * [Español](https://unitedwedream.org/wp-content/uploads/2020/03/ES_VerificarLasRedades_v1_0_20190829-1.pdf)
 
 [The Legal Aid Society's "What to Expect If You're Arrested" document (EN)](https://www.legalaidnyc.org/get-help/arrests-policing/what-to-expect-if-youre-arrested/)
 
