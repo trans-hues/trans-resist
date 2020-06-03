@@ -121,9 +121,8 @@ Signal is a free and open source encrypted messaging app, available for Android,
 
 One of the biggest downsides to Signal is that it requires a phone number to sign up. However, after you've created your account, you can use any phone number for that account. That means that you can spoof (create) a fake phone number to sign up. You will need that phone number to confirm your account in the initial setup process, but once you've done that, you can delete or abandon the fake number you used to sign up.
 
-#### [How to sign up on mobile](https://support.signal.org/hc/en-us/articles/360007318691-Register-a-phone-number)
-
-#### [Creating a temporary phone number for signup](https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number/)
+* [How to sign up on mobile](https://support.signal.org/hc/en-us/articles/360007318691-Register-a-phone-number)
+* [Creating a temporary phone number for signup](https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number/)
 
 #### SMS vs. Encrypted messages
 
@@ -155,9 +154,8 @@ To setup a screen lock for Signal, tap the vertical ellipsis icon in the top rig
 
 #### More help
 
-If you need more help with Signal, you can visit their official support page [here.](https://support.signal.org/hc/en-us)
-
-If you have more questions about Signal's security, you can read more [here.](https://support.signal.org/hc/en-us/categories/360000674811-Security)
+  * If you need more help with Signal, you can visit their official support page [here.](https://support.signal.org/hc/en-us)
+  * If you have more questions about Signal's security, you can read more [here.](https://support.signal.org/hc/en-us/categories/360000674811-Security)
 
 
 <a name="telegram"></a>
@@ -170,7 +168,7 @@ Telegram is a chat app that allows encrypted communication. It is free and open-
 The thing with a group chat on telegram is that anyone can join or be invited, depending of the privacy settings of the group chat. This can be a bad thing for organizing. For example, if an undercover agent or an infiltrator convinces someone to join the group, they can see every message that's posted in the group. While this can happen in group chats on any app, the bigger maximum size of group chats on Telegram can make it harder to vet every new member. Keep this in mind when deciding whether to use Signal or Telegram to organize.
 
 <a name="badapps"></a>
-### **(2.2.c) [Apps to avoid for organizing](#badapps)**
+### **(2.2.c) Apps to avoid for organizing)**
 
 #### Messenger
 
@@ -181,6 +179,7 @@ Facebook Messenger does not encrypt messages or communications in a way that pre
 #### Discord
 
 Discord doesn't use end-to-end encryption, which means that police or the NSA could potentially read any of your Discord messages.
+
 Discord also has a policy which says that people should not "promote, encourage, or engage in any illegal behavior." It also does not allow the "organization, promotion, or support of violent extremism." Since the US government has recently said they'd like to declare certain activist organizations to be terrorist organizations, it would be safest to use another platform to communicate.
 
 #### Whatsapp
@@ -200,13 +199,13 @@ OTR Chat uses end-to-end encryption to secure your conversations.
 
 With the use of the pidgin-otr plugin, Pidgin allows people to use OTR (Off-the-Record) Messaging to communicate with eachother using end-to-end encrypted messages.
 
-For instructions on how to setup Pidgin with the OTR plugin, [click here.](https://otr.cypherpunks.ca/)
+  * [Instructions on how to setup Pidgin with the OTR plugin](https://otr.cypherpunks.ca/)
 
 ### [Adium (Mac)](https://adium.im/help/pgs/AdvancedFeatures-OTREncryption.html)
 
 Adium allows people to communicate through end-to-end encrypted messaging with its OTR (Off-the-Record) plugin.
 
-For instructions on how to setup Adium and its OTR plugin, [click here.](https://adium.im/help/pgs/AdvancedFeatures-OTREncryption.html)
+  * [Instructions on how to setup Adium and its OTR plugin](https://adium.im/help/pgs/AdvancedFeatures-OTREncryption.html)
 
 ---
 
@@ -218,7 +217,7 @@ For instructions on how to setup Adium and its OTR plugin, [click here.](https:/
 
 [Meet Jitsi](https://meet.jit.si/) is a free and open-source video chat platform that uses end-to-end encryption. To our knowledge, it's currently the most secure and trustworthy video chat platform available.
 
-To open up a video chat room, go to meet.jit.si and enter a name for the room. Try to make it difficult to guess. Then, give the URL for the room to the people you'd like to chat with. The URL will look something like this: meet.jit.si/yourroomnamehere
+To open up a video chat room, go to meet.jit.si and enter a name for the room. Try to make it difficult to guess. Then, give the URL for the room to the people you'd like to chat with. The URL will look something like this: `meet.jit.si/yourroomnamehere`
 
 You can add a password to the room once you've entered it by clicking 'Add password' at the bottom right corner of the screen, or by clicking the 'i' icon in the bottom right, then clicking 'Add password.'
 
@@ -285,6 +284,8 @@ Thunderbird is a free email client that allows encryption through the plugin Eni
 
 If you want to make sure your email files are stored on a secure server, you can make an account with a host that uses end-to-end encryption to store your email files. Alternatively, you can use POP3 to access your email, which means that your emails will only be stored locally on your computer, and not on a remote server. However, keep in mind that using POP3 also means that you won't be able to access your previously read emails from anywhere. If you want to be able to access your email anywhere, and to do it securely, we recommend you use IMAP and create an account with one of the hosts listed below.
 
+It can also be a good idea to make a new free email account for every new account, as this can help keep someone from piecing together your identity based on your email address. If you do this, make sure to use unique email account usernames and passwords.
+
 #### [Riseup.net](https://riseup.net)
 
 Riseup.net offers end-to-end encrypted email hosting, as well as a bunch of other services. Their goal is to keep activists safe online. They are committed to never turn over any of your data to law enforcement. They also allow you to delete all of your data and your account if you ever need to.
@@ -295,14 +296,12 @@ Once you have an account, you can login at https://mail.riseup.net/rc/ or setup 
 
 If you don't know anyone with a Riseup account, you can use one of the options below.
 
-#### [Proton mail](https://protonmail.com/)
-
-Proton Mail offers end-to-end encrypted email hosting. You can create an account for free, but in order to access all features of your account (like using an email client to read your mail), you'll need to pay for a full account. I tend not to trust providers that use the free/premium divide, but I don't personally have any evidence that Proton Mail is bad. Use your best judgement.
-
-#### [Counter Mail](https://countermail.com/)
-#### [Hushmail](https://www.hushmail.com/)
-#### [Mailfence](https://mailfence.com/)
-#### [Tutanota](https://tutanota.com/) 
+#### Other email options
+* [Proton mail](https://protonmail.com/)
+* [Counter Mail](https://countermail.com/)
+* [Hushmail](https://www.hushmail.com/)
+* [Mailfence](https://mailfence.com/)
+* [Tutanota](https://tutanota.com/) 
 
 ---
 
@@ -391,6 +390,8 @@ Free VPNs can sometimes be less trustworthy, because some of them pay for their 
 
 That being said, there's not really anything keeping a paid VPN provider from doing the same thing. 
 
+However, because it can be expensive for a VPN provider to maintain their servers, sometimes you really do get what you pay for.
+
 <a name="riseupvpn"></a>
 ### **(2.7.b) [Riseup VPN](https://riseup.net/en/vpn)**
 
@@ -409,7 +410,7 @@ Firefox offers a paid VPN service for $4.99 USD/month. Mozilla is generally fair
 
 #### Other paid VPN providers
 
-I can't recommend or anti-recommend any of these providers, so please do your research before making a decision.
+I can't recommend or anti-recommend any of these providers, so please [do your research before making a decision.](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
 
 [NordVPN](https://nordvpn.com/): price varies based on the duration of your plan, but the base monthly price is $11.95 USD/month
 
