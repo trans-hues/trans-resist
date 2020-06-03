@@ -845,6 +845,8 @@ While showing up physically to a protest is important to a movement, not all of 
 
 [National Lawyers Guild (NLG)](https://www.nlg.org/resources/)
   * resources including ["Know Your Rights" (EN, ESP, +)](https://www.nlg.org/know-your-rights/) in multiple languages. They also provide [legal support](https://www.nlg.org/massdefenseprogram/) to protesters around the nation, and offer support hotlines in multiple states. Their national hotline number is 888-654-3265 - consider writing this number on your arm in sharpie if you go to a protest.
+  
+[Southern Poverty Law Center](https://www.splcenter.org/)
 
 [The National Center for Transgender Equality](https://transequality.org/)
   * [Know Your Rights (EN)](https://transequality.org/know-your-rights)
