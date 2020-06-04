@@ -885,13 +885,13 @@ While showing up physically to a protest is important to a movement, not all of 
 
 [Twitter thread of lawyers providing pro-bono assistance for protesters](https://twitter.com/riyakatariax/status/1266856139536207872?s=21)
 
-[ACLU]
+[American Civil Liberties Union (ACLU)](https://www.aclu.org/)
   * [Guide for legal observers (EN)](https://www.aclusc.org/sites/default/files/wysiwyg/legal_observers_final_new_branding.pdf)
   * Protester's Rights document (EN, ESP)](https://www.aclu.org/know-your-rights/protesters-rights/)
     * English: https://www.aclu.org/know-your-rights/protesters-rights/
     * Español: https://www.aclu.org/know-your-rights/derechos-de-los-manifestantes
 
-[United We Dream]
+[United We Dream](https://unitedwedream.org/)
   * ["Know your rights; know your power" (EN, ESP, +)](https://unitedwedream.org/heretostay/know-your-power/)
   * [How to verify online reports of ICE raids/Cómo verificar reportes en línea sobre las redadas de ICE]
     * [English](https://unitedwedream.org/wp-content/uploads/2019/09/RealOrRumor_VerifyRaids_20190819.pdf)
