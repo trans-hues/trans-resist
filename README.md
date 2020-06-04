@@ -887,13 +887,13 @@ While showing up physically to a protest is important to a movement, not all of 
 
 [American Civil Liberties Union (ACLU)](https://www.aclu.org/)
   * [Guide for legal observers (EN)](https://www.aclusc.org/sites/default/files/wysiwyg/legal_observers_final_new_branding.pdf)
-  * Protester's Rights document (EN, ESP)](https://www.aclu.org/know-your-rights/protesters-rights/)
+  * Protester's Rights document
     * English: https://www.aclu.org/know-your-rights/protesters-rights/
     * Español: https://www.aclu.org/know-your-rights/derechos-de-los-manifestantes
 
 [United We Dream](https://unitedwedream.org/)
   * ["Know your rights; know your power" (EN, ESP, +)](https://unitedwedream.org/heretostay/know-your-power/)
-  * [How to verify online reports of ICE raids/Cómo verificar reportes en línea sobre las redadas de ICE]
+  * How to verify online reports of ICE raids/Cómo verificar reportes en línea sobre las redadas de ICE
     * [English](https://unitedwedream.org/wp-content/uploads/2019/09/RealOrRumor_VerifyRaids_20190819.pdf)
     * [Español](https://unitedwedream.org/wp-content/uploads/2020/03/ES_VerificarLasRedades_v1_0_20190829-1.pdf)
 
