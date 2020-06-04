@@ -846,7 +846,7 @@ While showing up physically to a protest is important to a movement, not all of 
 
 #### Black Lives Matter
 
-[BLM Guide](https://www.notion.so/BLM-Guide-fac525a6d1324d458d15bdc4fec98661))
+[BLM Guide](https://www.notion.so/BLM-Guide-fac525a6d1324d458d15bdc4fec98661)
   * Has resources on how to organize, strategize, and protest, and how to stay safe while doing it.
 
 [List of BLM chapters](https://blacklivesmatter.com/chapters/)
