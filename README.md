@@ -622,7 +622,7 @@ Some ideas for what to do if you're arrested/accosted by police, and they ask wh
 <a name="ifurarrested"></a>
 ### **(3.5) What to do if you are arrested**
 
-This advice comes from the [ACLU's "Protesters' Rights" document:](https://www.aclu.org/know-your-rights/protesters-rights/?initms_aff=nat&initms_chan=soc&utm_medium=soc&initms=200531_kyr_tw&utm_source=tw&utm_campaign=&utm_content=200531_freespeech_kyr&ms_aff=nat&ms_chan=soc&ms=200531_kyr_tw) https://www.aclu.org/know-your-rights/protesters-rights/?initms_aff=nat&initms_chan=soc&utm_medium=soc&initms=200531_kyr_tw&utm_source=tw&utm_campaign=&utm_content=200531_freespeech_kyr&ms_aff=nat&ms_chan=soc&ms=200531_kyr_tw
+This advice comes from the [ACLU's "Protesters' Rights" document.](https://www.aclu.org/know-your-rights/protesters-rights/?initms_aff=nat&initms_chan=soc&utm_medium=soc&initms=200531_kyr_tw&utm_source=tw&utm_campaign=&utm_content=200531_freespeech_kyr&ms_aff=nat&ms_chan=soc&ms=200531_kyr_tw)
  
   * Stay calm. Make sure to keep your hands visible. Don’t argue, resist, or obstruct the police, even if you believe they are violating your rights. Point out that you are not disrupting anyone else’s activity and that the First Amendment protects your actions.
   * Ask if you are free to leave. If the officer says yes, calmly walk away.
