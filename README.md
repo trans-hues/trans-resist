@@ -844,7 +844,7 @@ While showing up physically to a protest is important to a movement, not all of 
 <a name="resources"></a>
 ## **(6.0) Other resources**
 
-#### Black Lives Matter
+### Black Lives Matter
 
 [BLM Guide](https://www.notion.so/BLM-Guide-fac525a6d1324d458d15bdc4fec98661)
   * Has resources on how to organize, strategize, and protest, and how to stay safe while doing it.
@@ -855,12 +855,12 @@ While showing up physically to a protest is important to a movement, not all of 
 
 [Google Map of protests](https://www.google.com/maps/d/viewer?mid=1W3fsF5-Mz3_KaBgVt2pU8BDY5GkawUN_&ll=9.101946528762323%2C-54.848781100000004&z=2)
 
-#### Protest safety and advice
+### Protest safety and advice
 
 [From Beirut to Minneapolis (EN)](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md)
   * a great general guide to protest safety, written by Lebanese technologists, protesters, and activists.
 
-#### Digital Security
+### Digital Security
 
 [Anonymize your online footprint (EN)](https://pastebin.com/TPgtvmVB)
   * a guide focusing on how to anonymize and reduce your online footprint, at home and at a protest.
@@ -881,7 +881,7 @@ While showing up physically to a protest is important to a movement, not all of 
   * a guide by Vice on how to increase your digital privacy while you're at a protest.   
  
   
-#### Legal resources  
+### Legal resources  
 
 [Twitter thread of lawyers providing pro-bono assistance for protesters](https://twitter.com/riyakatariax/status/1266856139536207872?s=21)
 
@@ -914,7 +914,7 @@ While showing up physically to a protest is important to a movement, not all of 
   * [Trans Legal Services Network (EN)](https://transequality.org/issues/resources/trans-legal-services-network-directory)
     * Includes links to trans-centric legal services by state. Most are focused around getting help with legal name and gender marker changes.
 
-#### Mental health
+### Mental health
 
 [Therapy Resources for People of Color/Queer Folx](https://docs.google.com/document/d/1dWShg0TZ7nJz5YJsCa1DyGCGTJMrUEd8du5vC6boVhs/mobilebasic)
 
