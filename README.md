@@ -882,7 +882,9 @@ While showing up physically to a protest is important to a movement, not all of 
  
   
 #### Legal resources  
-  
+
+[Twitter thread of lawyers providing pro-bono assistance for protesters](https://twitter.com/riyakatariax/status/1266856139536207872?s=21)
+
 [ACLU]
   * [Guide for legal observers (EN)](https://www.aclusc.org/sites/default/files/wysiwyg/legal_observers_final_new_branding.pdf)
   * Protester's Rights document (EN, ESP)](https://www.aclu.org/know-your-rights/protesters-rights/)
