@@ -32,6 +32,7 @@ Digital security and protest advice for trans and LGBTQIA+ people in 2020.
       * [2.9.b Image-Scrubber](#imagescrubber)
       * [2.9.c Obscuracam](#obscuracam)
       * [2.9.d Scrambled EXIF](#scrambled)
+      * [2.9.e Signal Blur](#signalblur)
     * [2.10 Behavior & opsec](#digisecbehavior)
     * [2.11 Advanced: Infrastructure, servers, and hosting](#infrastructure)
       * [2.11.a How to setup your own cloud server](#how2cloudserver)
@@ -58,7 +59,7 @@ Digital security and protest advice for trans and LGBTQIA+ people in 2020.
 <a name="desc"></a>
 ## **(1.0) Description**
 
-This guide is intended to provide some advice and resources to help trans and LGBTQIA+ people safely navigate protests, digital security, and quarantines in 2020. This guide is specifically written with US communities in mind, but may feature advice that's applicable to other contexts, as well.
+This guide is intended to provide some advice and resources to help trans and LGBTQIA+ people safely navigate protests against racism and police brutality, digital security, and quarantines in 2020. This guide is specifically written with US communities in mind, but may feature advice that's applicable to other contexts, as well.
 
 This guide isn't meant to scare you or make you extra paranoid. It's meant to be informative and approachable, and to help you decrease the amount of potential harm you are exposed to online and on the ground. 
 
@@ -66,7 +67,15 @@ This advice is not one-size-fits-all. Your situation is almost certainly differe
 
 We are people who care about digital security, and who have devoted some part of our lives to keeping up to date with these things & teaching others how to stay safe, but _we are not experts._ Take all of this advice with a grain of salt, and always use your best judgement. 
 
-We'd also like to recommend [From Beirut to Minneapolis](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md), a guide to general protest safety written by some trusted folks who're Lebanese protesters, activists, and technologists. We've adapted some of their advice here.
+We'd also like to recommend [From Beirut to Minneapolis](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md), a guide to general protest safety written by some trusted folks who're Lebanese protesters, activists, and technologists. We've adapted some of their advice here. 
+
+Also be sure to check out the incredible [BLM Guide](The [BLM Guide](https://www.notion.so/BLM-Guide-fac525a6d1324d458d15bdc4fec98661) also has tips on how to stay safe while organizing.) for tips, advice, and resources on how to organize safely in the US.
+
+[List of BLM chapters](https://blacklivesmatter.com/chapters/
+
+[Ways You Can Help](https://blacklivesmatters.carrd.co/)
+
+[Google Map of protests](https://www.google.com/maps/d/viewer?mid=1W3fsF5-Mz3_KaBgVt2pU8BDY5GkawUN_&ll=9.101946528762323%2C-54.848781100000004&z=2)
 
 ---
 
@@ -119,6 +128,8 @@ Also make sure to turn off location tagging on any social media accounts you use
 
 Signal is a free and open source encrypted messaging app, available for Android, iPhone, and computers.
 
+You can install Signal for your phone [here.](https://signal.org/install)
+
 One of the biggest downsides to Signal is that it requires a phone number to sign up. However, after you've created your account, you can use any phone number for that account. That means that you can spoof (create) a fake phone number to sign up. You will need that phone number to confirm your account in the initial setup process, but once you've done that, you can delete or abandon the fake number you used to sign up.
 
 * [How to sign up on mobile](https://support.signal.org/hc/en-us/articles/360007318691-Register-a-phone-number)
@@ -137,6 +148,8 @@ If you want to disable sending and receiving SMS and MMS messages in Signal, tap
 You can take a photo directly within the Signal app and then send it to someone using Signal messaging. The benefit of this is that the photo will not be saved automatically to your phone's unencrypted storage. However, anyone who receives the image can download the image to their phone's regular unencrypted storage and then send it to others, so be aware of that possiblity.
 
 If you want to send an image over Signal, make sure that you first remove any EXIF data from it using one of the [image scrubbers](#photosmeta) that we've linked in this guide. This will make it harder for someone who gets the image file to determine where and when it was taken. If the photo includes any faces in it, we also recommend that you obscure them using the same tools before you share them over Signal.
+
+Signal also added the ability to [blur and obscure portions of photos directly in the app.](https://signal.org/blog/blur-tools/)
 
 #### Disappearing messages
 
@@ -462,6 +475,14 @@ The app is available for Android on the [Google Play store](https://play.google.
 
 To use the app, tap the 'share' button in another app, then select Scrambled Exif from the list of options. This will tell Scrambled Exif to remove the EXIF data from your file. Once the EXIF data has been removed, another share window will open, and you'll be able to send the file using any app on your phone.
 
+<a name="signalblur"></a>
+### **(2.9.e) [Signal Blur](https://signal.org/blog/blur-tools/)**
+
+The latest version of [Signal](#signal) for Android and iOS includes a blur/obscure tool right in the image editor. You can tap the blur icon (looks like a checkerboard inside a circle) to apply a blur effect, or use the pen tool to draw over faces or identifying features.
+
+You can install Signal for your phone [here.](https://signal.org/install)
+
+
 ---
 
 <a name="digisecbehavior"></a>
@@ -536,6 +557,8 @@ One of the main contributors to Tor created [GhostWriter,](https://ghostwriter.s
 
 One of the best guides we've seen so far is [From Beirut to Minneapolis](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md), written by Lebanese protesters, technologists, and activists based on their experiences with the ongoing protests in Lebanon. We've adapted some of their tips here, and added some of our own. We really recommend you read through their guide for some of the best protest safety advice. They also provide advice on what to bring to a protest, what to wear, and how to organize safely.
 
+The [BLM Guide](https://www.notion.so/BLM-Guide-fac525a6d1324d458d15bdc4fec98661) also has tips on how to stay safe while organizing.
+
 Be aware that arrests are happening at these protests: people are being arrested simply for being present. If you do not want to risk getting arrested for any reason, you may want to consider staying home and [providing support from there.](#helpfromhome)
 
 <a name="gensafety"></a>
@@ -583,13 +606,18 @@ In general, follow the same guidelines that you would when exercising, and be su
 
 Remember that if you're not trained to give someone medical treatment, and someone needs medical attention, then you need to get that person medical attention as soon as possible. These tips are for minor first aid, or for taking care of someone while you're waiting for an ambulance to arrive or for medical assistance from trained medical personnel.
 
+If you want to be a medic, chekc out this [infographic](https://pbs.twimg.com/media/EZnTKWiVcAANUuS?format=jpg&name=large) put together by protesters from Chile, Hong Kong, and BLM.
+
+Riot Medicine has an incredibly in-depth [downloadable PDF guide](https://riotmedicine.net/static/downloads/riot-medicine.pdf) on medical intervention.
+
 #### Tear gas & riot control agents
 
-[CDC Fact Sheet on Tear Gas](https://emergency.cdc.gov/agent/riotcontrol/factsheet.asp)
+[CDC fact sheet on tear gas](https://emergency.cdc.gov/agent/riotcontrol/factsheet.asp)
+[Riot ID guides on how to identify riot control agents (EN, ESP, AR, FRE, GER, GRE, IT, TUR)](https://riotid.com/)
 
   * When dressing for the protest, try to cover as much of your skin as possible. This will help protect you from exposure to tear gas, pepper spray, and other chemical agents.
   * If you have been exposed to tear gas or other chemical agents, rinse your eyes as soon as possible. When you get home, remove your clothing and place it in a plastic bag, then place that bag in another plastic bag, being careful not to let your clothing touch other surfaces. Then, get in the shower and rinse yourself off with cold water until the burning lessens. Washing with soap and cold water should get the chemicals off your skin. Hot water can make the burning worse.
-  * a 1:1 mixture of water and maalox can be used to rinse out the eyes of someone who has been sprayed with pepper spray.
+  * Many protesters say from experience that a 1:1 mixture of water and maalox can be used to rinse out the eyes of someone who has been sprayed with pepper spray. The CDC recommends you rinse eyes with plain water or saline solution.
     * Only use aluminum hydroxide or magnesium hydroxide based antacids. Flavored antacids will burn.
     * When rinsing someone's eyes, rinse from the inside (near the nose) to the outside of the eye (towards the cheek). Tilt the person's head to the side so that the rinsing liquid can run down their eye and off their face.
   * Use cider vigar, soda, saline water, or Maalox-water mix to rinse chemicals from eyes.
@@ -814,20 +842,47 @@ While showing up physically to a protest is important to a movement, not all of 
 <a name="resources"></a>
 ## **(6.0) Other resources**
 
+#### Black Lives Matter
+
+[List of BLM chapters](https://blacklivesmatter.com/chapters/
+
+[Ways You Can Help](https://blacklivesmatters.carrd.co/)
+
+[Google Map of protests](https://www.google.com/maps/d/viewer?mid=1W3fsF5-Mz3_KaBgVt2pU8BDY5GkawUN_&ll=9.101946528762323%2C-54.848781100000004&z=2)
+
+#### Protest safety and advice
+
 [From Beirut to Minneapolis (EN)](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md)
   * a great general guide to protest safety, written by Lebanese technologists, protesters, and activists.
-  
+
+#### Digital Security
+
 [Anonymize your online footprint (EN)](https://pastebin.com/TPgtvmVB)
   * a guide focusing on how to anonymize and reduce your online footprint, at home and at a protest.
 
 [Hacking//Hustling: Doxxing Prevention Harm Reduction Training (EN)](https://hackinghustling.org/doxxing-prevention-harm-reduction-training/)
   * a guide and video workshop designed for LGBTQIA+ people, sex workers, and protesters.
-  
-[ACLU's guide for legal observers (EN)](https://www.aclusc.org/sites/default/files/wysiwyg/legal_observers_final_new_branding.pdf)
 
-[ACLU's Protester's Rights document (EN, ESP)](https://www.aclu.org/know-your-rights/protesters-rights/)
-  * English: https://www.aclu.org/know-your-rights/protesters-rights/
-  * Español: https://www.aclu.org/know-your-rights/derechos-de-los-manifestantes
+[EFF (Electronic Frontier Foundation)](https://www.eff.org/)
+  * [Digital Security Tips for Protesters (EN) (2016)](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
+    * a guide by the Electronic Frontier Foundation (EFF) on how to take care of your digital security at a protest. This guide was written in 2016, so it may be out of date.
+  * [Attending a Protest (EN) (2019)](https://ssd.eff.org/en/module/attending-protest)
+    * another guide by the Electronic Frontier Foundation (EFF) on how to protect yourself at a protest. This guide was last edited in 2019.
+  * [Surveillance Self-Defense (EN)](https://ssd.eff.org/en/module-categories/further-learning)
+    * a series of guides by EFF on digital security and self defense against surveillance. Covers topics like encryption, social networks, VPNs, and malware.
+  * [Protecting Your Privacy if Your Phone is Taken Away](https://www.eff.org/deeplinks/2020/06/protecting-your-privacy-if-your-phone-taken-away)
+
+[VICE: How to Protest Without Sacrificing Your Digital Privacy (EN)](https://www.vice.com/en_us/article/gv59jb/guide-protect-digital-privacy-during-protest?d)
+  * a guide by Vice on how to increase your digital privacy while you're at a protest.   
+ 
+  
+#### Legal resources  
+  
+[ACLU]
+  * [Guide for legal observers (EN)](https://www.aclusc.org/sites/default/files/wysiwyg/legal_observers_final_new_branding.pdf)
+  * Protester's Rights document (EN, ESP)](https://www.aclu.org/know-your-rights/protesters-rights/)
+    * English: https://www.aclu.org/know-your-rights/protesters-rights/
+    * Español: https://www.aclu.org/know-your-rights/derechos-de-los-manifestantes
 
 [United We Dream]
   * ["Know your rights; know your power" (EN, ESP, +)](https://unitedwedream.org/heretostay/know-your-power/)
@@ -837,34 +892,11 @@ While showing up physically to a protest is important to a movement, not all of 
 
 [The Legal Aid Society's "What to Expect If You're Arrested" document (EN)](https://www.legalaidnyc.org/get-help/arrests-policing/what-to-expect-if-youre-arrested/)
 
-[Therapy Resources for People of Color/Queer Folx](https://docs.google.com/document/d/1dWShg0TZ7nJz5YJsCa1DyGCGTJMrUEd8du5vC6boVhs/mobilebasic)
-
-[Black Girls Smile](https://www.blackgirlssmile.org/resources)
-  * A list of mental health resources for black folks and people of color.
-  
-[Black Emotional and Mental Health Collective](https://www.beam.community/bvtn)
-  * Their black virtual therapist directory lists licensed Black therapists who are certified to provide telemental health services.
-  
-[National Queer & Trans Therapists of Color Network](https://www.nqttcn.com/)
-  * a healing justice organization committed to transforming mental health for queer and trans people of color (QTPoC). They have a directory of QTPOC mental health practitioners, and provide resources for practitioner development.
-
 [Silvia Rivera Law Project: Resources for TGNCI people & communities during COVID-19](https://srlp.org/covid-19-resources/)
   * Includes general information on COVID-19, information on [how to change your name & gender markers while offices are shut down,](http://www.srlp.org/changeid-covid19/) information on [housing rights](https://dc37blog.wordpress.com/2020/03/30/ny-housing-updates-eviction-and-foreclosure-moratorium-covid-19-discrimination-nycha-section-8-rent-hardships/) and [rent strikes,](https://docs.google.com/document/d/1Va2a6ilp7O2iIBQUMxXFSOwxqep6jSjHp8Gd8O9WuTY/edit?fbclid=IwAR2bNLm6En8g5v7NPo4IahVL8d5S4HEihtwHrczNKzNN4mhclnNgJ9VkXRE) information on immigration rights for trans people (in [English](https://srlp.org/wp-content/uploads/2018/02/kyr-immgr-eng-color-v2.pdf) and [Spanish](https://srlp.org/wp-content/uploads/2018/02/kyr-immgr-span-color-v2.pdf)), information on how to access TGNCI healthcare, and resources for incarcerated people and their communities. Much of the information is specifically for people living in New York.
 
-[EFF (Electronic Frontier Foundation)](https://www.eff.org/)
-  * [Digital Security Tips for Protesters (EN) (2016)](https://www.eff.org/deeplinks/2016/11/digital-security-tips-for-protesters)
-    * a guide by the Electronic Frontier Foundation (EFF) on how to take care of your digital security at a protest. This guide was written in 2016, so it may be out of date.
-  * [Attending a Protest (EN) (2019)](https://ssd.eff.org/en/module/attending-protest)
-    * another guide by the Electronic Frontier Foundation (EFF) on how to protect yourself at a protest. This guide was last edited in 2019.
-  * [Surveillance Self-Defense (EN)](https://ssd.eff.org/en/module-categories/further-learning)
-    * a series of guides by EFF on digital security and self defense against surveillance. Covers topics like encryption, social networks, VPNs, and malware.
-
-[VICE: How to Protest Without Sacrificing Your Digital Privacy (EN)](https://www.vice.com/en_us/article/gv59jb/guide-protect-digital-privacy-during-protest?d)
-  * a guide by Vice on how to increase your digital privacy while you're at a protest.
-
 [National Lawyers Guild (NLG)](https://www.nlg.org/resources/)
   * resources including ["Know Your Rights" (EN, ESP, +)](https://www.nlg.org/know-your-rights/) in multiple languages. They also provide [legal support](https://www.nlg.org/massdefenseprogram/) to protesters around the nation, and offer support hotlines in multiple states. Their national hotline number is 888-654-3265 - consider writing this number on your arm in sharpie if you go to a protest.
-  
 [Southern Poverty Law Center](https://www.splcenter.org/)
 
 [The National Center for Transgender Equality](https://transequality.org/)
@@ -874,3 +906,19 @@ While showing up physically to a protest is important to a movement, not all of 
     * Includes information on how to change your name on legal documents, IDs, and records in the US.
   * [Trans Legal Services Network (EN)](https://transequality.org/issues/resources/trans-legal-services-network-directory)
     * Includes links to trans-centric legal services by state. Most are focused around getting help with legal name and gender marker changes.
+
+#### Mental health
+
+[Therapy Resources for People of Color/Queer Folx](https://docs.google.com/document/d/1dWShg0TZ7nJz5YJsCa1DyGCGTJMrUEd8du5vC6boVhs/mobilebasic)
+
+[Black Girls Smile](https://www.blackgirlssmile.org/resources)
+  * A list of mental health resources for black folks and people of color.
+
+[Black Emotional and Mental Health Collective](https://www.beam.community/bvtn)
+  * Their black virtual therapist directory lists licensed Black therapists who are certified to provide telemental health services.
+
+[National Queer & Trans Therapists of Color Network](https://www.nqttcn.com/)
+  * a healing justice organization committed to transforming mental health for queer and trans people of color (QTPoC). They have a directory of QTPOC mental health practitioners, and provide resources for practitioner development.
+
+
+
