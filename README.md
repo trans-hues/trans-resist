@@ -646,10 +646,11 @@ Many legal aid organizations cannot provide legal advice over the phone. If you 
 
 (alhpabetical by state)
 
-California
+**California (CA):**
   * [TGI Justice:](http://www.tgijp.org/) http://www.tgijp.org/
+    * [Donate:](http://www.tgijp.org/donate.html) http://www.tgijp.org/donate.html
 
-New York
+**New York (NY):**
   * [Silvia Rivera Law Project:](https://srlp.org/) https://srlp.org/
   * [Transgender Legal Defense & Education Fund:](https://transgenderlegal.org/) https://transgenderlegal.org/
   
