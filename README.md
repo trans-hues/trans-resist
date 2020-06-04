@@ -67,9 +67,9 @@ This advice is not one-size-fits-all. Your situation is almost certainly differe
 
 We are people who care about digital security, and who have devoted some part of our lives to keeping up to date with these things & teaching others how to stay safe, but _we are not experts._ Take all of this advice with a grain of salt, and always use your best judgement. 
 
-We'd also like to recommend [From Beirut to Minneapolis](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md), a guide to general protest safety written by some trusted folks who're Lebanese protesters, activists, and technologists. We've adapted some of their advice here. 
+**Be sure to check out the incredible [BLM Guide](https://www.notion.so/BLM-Guide-fac525a6d1324d458d15bdc4fec98661) for tips, advice, and resources on how to organize safely in the US.**
 
-Also be sure to check out the incredible [BLM Guide](The [BLM Guide](https://www.notion.so/BLM-Guide-fac525a6d1324d458d15bdc4fec98661) also has tips on how to stay safe while organizing.) for tips, advice, and resources on how to organize safely in the US.
+We'd also like to recommend [From Beirut to Minneapolis](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md), a guide to general protest safety written by some trusted folks who're Lebanese protesters, activists, and technologists. We've adapted some of their advice here. 
 
 [List of BLM chapters](https://blacklivesmatter.com/chapters/)
 
@@ -846,7 +846,10 @@ While showing up physically to a protest is important to a movement, not all of 
 
 #### Black Lives Matter
 
-[List of BLM chapters](https://blacklivesmatter.com/chapters/
+[BLM Guide](https://www.notion.so/BLM-Guide-fac525a6d1324d458d15bdc4fec98661))
+  * Has resources on how to organize, strategize, and protest, and how to stay safe while doing it.
+
+[List of BLM chapters](https://blacklivesmatter.com/chapters/)
 
 [Ways You Can Help](https://blacklivesmatters.carrd.co/)
 
