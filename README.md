@@ -1,5 +1,5 @@
 # trans-resist
-Digital security and protest advice for trans and LGBTQIA+ people in 2020.
+Advice and resources on digital security, protesting, organizing, and strategizing for trans and LGBTQIA+ people in 2020.
 
 ## Table of contents
 
@@ -59,7 +59,7 @@ Digital security and protest advice for trans and LGBTQIA+ people in 2020.
 <a name="desc"></a>
 ## **(1.0) Description**
 
-This guide is intended to provide some advice and resources to help trans and LGBTQIA+ people safely navigate protests against racism and police brutality, digital security, and quarantines in 2020. This guide is specifically written with US communities in mind, but may feature advice that's applicable to other contexts, as well.
+This guide is intended to provide some advice and resources to help trans and LGBTQIA+ people safely navigate protests against racism and police brutality, learn about digital security, and make it through quarantines in 2020. This guide is specifically written with US communities in mind, but may feature advice that's applicable to other contexts, as well.
 
 This guide isn't meant to scare you or make you extra paranoid. It's meant to be informative and approachable, and to help you decrease the amount of potential harm you are exposed to online and on the ground. 
 
@@ -71,7 +71,7 @@ We'd also like to recommend [From Beirut to Minneapolis](https://github.com/from
 
 Also be sure to check out the incredible [BLM Guide](The [BLM Guide](https://www.notion.so/BLM-Guide-fac525a6d1324d458d15bdc4fec98661) also has tips on how to stay safe while organizing.) for tips, advice, and resources on how to organize safely in the US.
 
-[List of BLM chapters](https://blacklivesmatter.com/chapters/
+[List of BLM chapters](https://blacklivesmatter.com/chapters/)
 
 [Ways You Can Help](https://blacklivesmatters.carrd.co/)
 
@@ -174,7 +174,9 @@ To setup a screen lock for Signal, tap the vertical ellipsis icon in the top rig
 <a name="telegram"></a>
 ### **(2.2.b) [Telegram](https://telegram.org/apps)**
 
-Telegram is a chat app that allows encrypted communication. It is free and open-source. Generally, it is considered to be less secure than Signal, but sometimes it is preferred for certain features, like the ability to make bigger group chats. However, it's generally recommended that, whenever possible, you use Signal rather than Telegram for sensitive communication.
+Telegram is a chat app that allows encrypted communication. It is free and open-source. Generally, it is considered to be less secure than Signal, but sometimes it is preferred for certain features, like the ability to make bigger group chats, or the ability to sign up without sharing your phone number.
+
+Telegram is a good second choice if you don't want to use Signal for any reason.
 
 #### Group Chats
 
