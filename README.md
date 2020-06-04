@@ -793,7 +793,8 @@ Some bail funds will also help you through the release process, and provide some
 While showing up physically to a protest is important to a movement, not all of us are able to risk it: some of us are undocumented, some of us have vulnerable immune systems, and some of us have disabilities. There are plenty of legitimate reasons why someone might not be able to attend a protest, or why someone might not feel safe attending a protest.
 
 ### Some other ways to help organize from home:
-
+  * [Ways You Can Help](https://blacklivesmatters.carrd.co/)
+    * Includes a map of protests, links to petitions you can sign, numbers you can call, places to donate, resources for white people to use to educate themselves, and more.
   * Donate to a [bail fund](#bailfunds)
   * [Split a donation between 70+ community bail funds, mutual aid funds, and racial justice organizers:](https://secure.actblue.com/donate/bail_funds_george_floyd) https://secure.actblue.com/donate/bail_funds_george_floyd
   * Donate to a gofundme
@@ -835,6 +836,17 @@ While showing up physically to a protest is important to a movement, not all of 
     * [Español](https://unitedwedream.org/wp-content/uploads/2020/03/ES_VerificarLasRedades_v1_0_20190829-1.pdf)
 
 [The Legal Aid Society's "What to Expect If You're Arrested" document (EN)](https://www.legalaidnyc.org/get-help/arrests-policing/what-to-expect-if-youre-arrested/)
+
+[Therapy Resources for People of Color/Queer Folx](https://docs.google.com/document/d/1dWShg0TZ7nJz5YJsCa1DyGCGTJMrUEd8du5vC6boVhs/mobilebasic)
+
+[Black Girls Smile](https://www.blackgirlssmile.org/resources)
+  * A list of mental health resources for black folks and people of color.
+  
+[Black Emotional and Mental Health Collective](https://www.beam.community/bvtn)
+  * Their black virtual therapist directory lists licensed Black therapists who are certified to provide telemental health services.
+  
+[National Queer & Trans Therapists of Color Network](https://www.nqttcn.com/)
+  * a healing justice organization committed to transforming mental health for queer and trans people of color (QTPoC). They have a directory of QTPOC mental health practitioners, and provide resources for practitioner development.
 
 [Silvia Rivera Law Project: Resources for TGNCI people & communities during COVID-19](https://srlp.org/covid-19-resources/)
   * Includes general information on COVID-19, information on [how to change your name & gender markers while offices are shut down,](http://www.srlp.org/changeid-covid19/) information on [housing rights](https://dc37blog.wordpress.com/2020/03/30/ny-housing-updates-eviction-and-foreclosure-moratorium-covid-19-discrimination-nycha-section-8-rent-hardships/) and [rent strikes,](https://docs.google.com/document/d/1Va2a6ilp7O2iIBQUMxXFSOwxqep6jSjHp8Gd8O9WuTY/edit?fbclid=IwAR2bNLm6En8g5v7NPo4IahVL8d5S4HEihtwHrczNKzNN4mhclnNgJ9VkXRE) information on immigration rights for trans people (in [English](https://srlp.org/wp-content/uploads/2018/02/kyr-immgr-eng-color-v2.pdf) and [Spanish](https://srlp.org/wp-content/uploads/2018/02/kyr-immgr-span-color-v2.pdf)), information on how to access TGNCI healthcare, and resources for incarcerated people and their communities. Much of the information is specifically for people living in New York.
