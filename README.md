@@ -183,7 +183,7 @@ Telegram is a good second choice if you don't want to use Signal for any reason.
 The thing with a group chat on telegram is that anyone can join or be invited, depending of the privacy settings of the group chat. This can be a bad thing for organizing. For example, if an undercover agent or an infiltrator convinces someone to join the group, they can see every message that's posted in the group. While this can happen in group chats on any app, the bigger maximum size of group chats on Telegram can make it harder to vet every new member. Keep this in mind when deciding whether to use Signal or Telegram to organize.
 
 <a name="badapps"></a>
-### **(2.2.c) Apps to avoid for organizing)**
+### **(2.2.c) Apps to avoid for organizing**
 
 #### Messenger
 
@@ -608,7 +608,7 @@ In general, follow the same guidelines that you would when exercising, and be su
 
 Remember that if you're not trained to give someone medical treatment, and someone needs medical attention, then you need to get that person medical attention as soon as possible. These tips are for minor first aid, or for taking care of someone while you're waiting for an ambulance to arrive or for medical assistance from trained medical personnel.
 
-If you want to be a medic, chekc out this [infographic](https://pbs.twimg.com/media/EZnTKWiVcAANUuS?format=jpg&name=large) put together by protesters from Chile, Hong Kong, and BLM.
+If you want to be a medic, check out this [infographic](https://pbs.twimg.com/media/EZnTKWiVcAANUuS?format=jpg&name=large) put together by protesters from Chile, Hong Kong, and BLM.
 
 Riot Medicine has an incredibly in-depth [downloadable PDF guide](https://riotmedicine.net/static/downloads/riot-medicine.pdf) on medical intervention.
 
@@ -619,10 +619,8 @@ Riot Medicine has an incredibly in-depth [downloadable PDF guide](https://riotme
 
   * When dressing for the protest, try to cover as much of your skin as possible. This will help protect you from exposure to tear gas, pepper spray, and other chemical agents.
   * If you have been exposed to tear gas or other chemical agents, rinse your eyes as soon as possible. When you get home, remove your clothing and place it in a plastic bag, then place that bag in another plastic bag, being careful not to let your clothing touch other surfaces. Then, get in the shower and rinse yourself off with cold water until the burning lessens. Washing with soap and cold water should get the chemicals off your skin. Hot water can make the burning worse.
-  * Many protesters say from experience that a 1:1 mixture of water and maalox can be used to rinse out the eyes of someone who has been sprayed with pepper spray. The CDC recommends you rinse eyes with plain water or saline solution.
-    * Only use aluminum hydroxide or magnesium hydroxide based antacids. Flavored antacids will burn.
+  * The CDC recommends you rinse eyes with plain, clean water.
     * When rinsing someone's eyes, rinse from the inside (near the nose) to the outside of the eye (towards the cheek). Tilt the person's head to the side so that the rinsing liquid can run down their eye and off their face.
-  * Use cider vigar, soda, saline water, or Maalox-water mix to rinse chemicals from eyes.
   * Milk can be used on your skin to alleviate burning, but don't use it on your eyes. If milk gets in your eyes, rinse it out.
 
 #### Wound care
