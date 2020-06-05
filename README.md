@@ -897,7 +897,7 @@ While showing up physically to a protest is important to a movement, not all of 
 
 [The Legal Aid Society's "What to Expect If You're Arrested" document (EN)](https://www.legalaidnyc.org/get-help/arrests-policing/what-to-expect-if-youre-arrested/)
 
-[Silvia Rivera Law Project: Resources for TGNCI people & communities during COVID-19](https://srlp.org/covid-19-resources/)
+[Sylvia Rivera Law Project: Resources for TGNCI people & communities during COVID-19](https://srlp.org/covid-19-resources/)
   * Includes general information on COVID-19, information on [how to change your name & gender markers while offices are shut down,](http://www.srlp.org/changeid-covid19/) information on [housing rights](https://dc37blog.wordpress.com/2020/03/30/ny-housing-updates-eviction-and-foreclosure-moratorium-covid-19-discrimination-nycha-section-8-rent-hardships/) and [rent strikes,](https://docs.google.com/document/d/1Va2a6ilp7O2iIBQUMxXFSOwxqep6jSjHp8Gd8O9WuTY/edit?fbclid=IwAR2bNLm6En8g5v7NPo4IahVL8d5S4HEihtwHrczNKzNN4mhclnNgJ9VkXRE) information on immigration rights for trans people (in [English](https://srlp.org/wp-content/uploads/2018/02/kyr-immgr-eng-color-v2.pdf) and [Spanish](https://srlp.org/wp-content/uploads/2018/02/kyr-immgr-span-color-v2.pdf)), information on how to access TGNCI healthcare, and resources for incarcerated people and their communities. Much of the information is specifically for people living in New York.
 
 [National Lawyers Guild (NLG)](https://www.nlg.org/resources/)
@@ -917,13 +917,23 @@ While showing up physically to a protest is important to a movement, not all of 
 [Therapy Resources for People of Color/Queer Folx](https://docs.google.com/document/d/1dWShg0TZ7nJz5YJsCa1DyGCGTJMrUEd8du5vC6boVhs/mobilebasic)
 
 [Black Girls Smile](https://www.blackgirlssmile.org/resources)
-  * A list of mental health resources for black folks and people of color.
+  * A list of mental health resources for Black folks and people of color.
 
 [Black Emotional and Mental Health Collective](https://www.beam.community/bvtn)
-  * Their black virtual therapist directory lists licensed Black therapists who are certified to provide telemental health services.
+  * There black virtual therapist directory lists licensed Black therapists who are certified to provide telemental health services.
 
 [National Queer & Trans Therapists of Color Network](https://www.nqttcn.com/)
   * a healing justice organization committed to transforming mental health for queer and trans people of color (QTPoC). They have a directory of QTPOC mental health practitioners, and provide resources for practitioner development.
+
+[The Okra Project](https://www.theokraproject.com/)
+ *  a collective that seeks to address the global crisis faced by Black Trans people by bringing home cooked, healthy, and culturally specific meals and resources to Black Trans People wherever we can reach them.   
+  
+[Trans Lifeline](https://www.translifeline.org)
+ * a trans led hotline (877-565-8860) and microgrants organization that offers peer led direct emotional and financial support to trans people in crisis.  
+ 
+ [Trans Women of Color Collective](https://www.twocc.us/)
+ 
+  * Supporting thru education and community funds initiatives focusing on survival and wellness. 
 
 
 
