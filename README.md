@@ -494,7 +494,20 @@ Beware of undercover cops in your group chats and online organizing groups, but 
 
 Both of these reasons mean that sometimes it's best to organize in small groups with people you know directly and trust deeply, or to rely on a trusted organization like [Black Lives Matter](https://blacklivesmatter.com/) for up-to-date information on local protests.
 
-Be wary of using your real name: in the US, finding someone's address with only their name is trivial, thanks to data brokers like Spokeo and Whitepages.
+Be wary of using your chosen name or legal name: in the US, finding someone's address with only their name is trivial, thanks to data brokers.  Data Brokers are people or companies who use public records to gather personal info and contact details of people. If you've ever been arrested, recieved a ticket, gotten married, that's all public information including any personal data that you include in your social media depending on your privacy settings. These data brokers create lists of that information to sell. This invasive economy can be triggering and dangerous for Trans folks who often still have legal ties to their deadnames.
+
+One good thing is that most data brokers reluctantly offer a process by which you can request to be taken off the lists they provide for purchase. 
+
+It takes time to opt out but we got you by providing the resources to make that happen.  Start by looking for yourself on a data broker’s list - then search for their opt-out page and read through the process they outline for getting yourself removed.  Services like [DeleteMe](https://joindeleteme.com/help/diy-free-opt-out-guide/) offer step-by-step directions to do this work.
+
+Here's a list of some of the major data brokers.  These links go directly to their opt out pages:
+
+ * [Spokeo](https://www.spokeo.com/optout)
+ * [Whitepages](https://www.whitepages.com/suppression_requests)
+ * [Peoplesmart](https://www.peoplesmart.com/optout-go)
+ * [People Finder](https://www.peoplefinders.com/manage)
+ * [MyLife](https://joindeleteme.com/help/kb/how-to-remove-yourself-from-mylife/)
+
 
 ---
 
