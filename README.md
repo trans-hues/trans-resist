@@ -59,7 +59,7 @@ Advice and resources on digital security, protesting, organizing, and strategizi
 <a name="desc"></a>
 ## **(1.0) Description**
 
-This guide is intended to provide some advice and resources to help trans and LGBTQIA+ people safely navigate protests against racism and police brutality, learn about digital security, and make it through quarantines in 2020. This guide is specifically written with US communities in mind, but may feature advice that's applicable to other contexts, as well.
+This guide is intended to provide some advice and resources to help LGBTQIA+ people safely navigate protests against racism and police brutality, learn about digital security, and make it through quarantines in 2020. This guide does not have a ton of trans specific resources which we hope to change over time. We do know that police are often perpetrators of violence against trans people.  This is written in memory of our community members murdered by the police like Tony McDade and Kiwi Herring.  Their voices are left out often when talking about the intersectional impact of anti-Blackness, transphophia, and partriarchy.  This guide is also specifically written with US communities in mind, but may feature advice that's applicable to other contexts, as well.
 
 This guide isn't meant to scare you or make you extra paranoid. It's meant to be informative and approachable, and to help you decrease the amount of potential harm you are exposed to online and on the ground. 
 
@@ -494,7 +494,20 @@ Beware of undercover cops in your group chats and online organizing groups, but 
 
 Both of these reasons mean that sometimes it's best to organize in small groups with people you know directly and trust deeply, or to rely on a trusted organization like [Black Lives Matter](https://blacklivesmatter.com/) for up-to-date information on local protests.
 
-Be wary of using your real name: in the US, finding someone's address with only their name is trivial, thanks to data brokers like Spokeo and Whitepages.
+Be wary of using your chosen name or legal name: in the US, finding someone's address with only their name is trivial, thanks to data brokers.  Data Brokers are people or companies who use public records to gather personal info and contact details of people. If you've ever been arrested, recieved a ticket, gotten married, that's all public information including any personal data that you include in your social media depending on your privacy settings. These data brokers create lists of that information to sell. This invasive economy can be triggering and dangerous for Trans folks who often still have legal ties to their deadnames.
+
+One good thing is that most data brokers reluctantly offer a process by which you can request to be taken off the lists they provide for purchase. 
+
+It takes time to opt out but we got you by providing the resources to make that happen.  Start by looking for yourself on a data broker’s list - then search for their opt-out page and read through the process they outline for getting yourself removed.  Services like [DeleteMe](https://joindeleteme.com/help/diy-free-opt-out-guide/) offer step-by-step directions to do this work.
+
+Here's a list of some of the major data brokers.  These links go directly to their opt out pages:
+
+ * [Spokeo](https://www.spokeo.com/optout)
+ * [Whitepages](https://www.whitepages.com/suppression_requests)
+ * [Peoplesmart](https://www.peoplesmart.com/optout-go)
+ * [People Finder](https://www.peoplefinders.com/manage)
+ * [MyLife](https://joindeleteme.com/help/kb/how-to-remove-yourself-from-mylife/)
+
 
 ---
 
@@ -897,7 +910,7 @@ While showing up physically to a protest is important to a movement, not all of 
 
 [The Legal Aid Society's "What to Expect If You're Arrested" document (EN)](https://www.legalaidnyc.org/get-help/arrests-policing/what-to-expect-if-youre-arrested/)
 
-[Silvia Rivera Law Project: Resources for TGNCI people & communities during COVID-19](https://srlp.org/covid-19-resources/)
+[Sylvia Rivera Law Project: Resources for TGNCI people & communities during COVID-19](https://srlp.org/covid-19-resources/)
   * Includes general information on COVID-19, information on [how to change your name & gender markers while offices are shut down,](http://www.srlp.org/changeid-covid19/) information on [housing rights](https://dc37blog.wordpress.com/2020/03/30/ny-housing-updates-eviction-and-foreclosure-moratorium-covid-19-discrimination-nycha-section-8-rent-hardships/) and [rent strikes,](https://docs.google.com/document/d/1Va2a6ilp7O2iIBQUMxXFSOwxqep6jSjHp8Gd8O9WuTY/edit?fbclid=IwAR2bNLm6En8g5v7NPo4IahVL8d5S4HEihtwHrczNKzNN4mhclnNgJ9VkXRE) information on immigration rights for trans people (in [English](https://srlp.org/wp-content/uploads/2018/02/kyr-immgr-eng-color-v2.pdf) and [Spanish](https://srlp.org/wp-content/uploads/2018/02/kyr-immgr-span-color-v2.pdf)), information on how to access TGNCI healthcare, and resources for incarcerated people and their communities. Much of the information is specifically for people living in New York.
 
 [National Lawyers Guild (NLG)](https://www.nlg.org/resources/)
@@ -917,13 +930,23 @@ While showing up physically to a protest is important to a movement, not all of 
 [Therapy Resources for People of Color/Queer Folx](https://docs.google.com/document/d/1dWShg0TZ7nJz5YJsCa1DyGCGTJMrUEd8du5vC6boVhs/mobilebasic)
 
 [Black Girls Smile](https://www.blackgirlssmile.org/resources)
-  * A list of mental health resources for black folks and people of color.
+  * A list of mental health resources for Black folks and people of color.
 
 [Black Emotional and Mental Health Collective](https://www.beam.community/bvtn)
-  * Their black virtual therapist directory lists licensed Black therapists who are certified to provide telemental health services.
+  * There black virtual therapist directory lists licensed Black therapists who are certified to provide telemental health services.
 
 [National Queer & Trans Therapists of Color Network](https://www.nqttcn.com/)
   * a healing justice organization committed to transforming mental health for queer and trans people of color (QTPoC). They have a directory of QTPOC mental health practitioners, and provide resources for practitioner development.
+
+[The Okra Project](https://www.theokraproject.com/)
+ *  a collective that seeks to address the global crisis faced by Black Trans people by bringing home cooked, healthy, and culturally specific meals and resources to Black Trans People wherever we can reach them.   
+  
+[Trans Lifeline](https://www.translifeline.org)
+ * a trans led hotline (877-565-8860) and microgrants organization that offers peer led direct emotional and financial support to trans people in crisis.  
+ 
+ [Trans Women of Color Collective](https://www.twocc.us/)
+ 
+  * Supporting thru education and community funds initiatives focusing on survival and wellness. 
 
 
 
