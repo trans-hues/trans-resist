@@ -59,7 +59,7 @@ Advice and resources on digital security, protesting, organizing, and strategizi
 <a name="desc"></a>
 ## **(1.0) Description**
 
-This guide is intended to provide some advice and resources to help trans and LGBTQIA+ people safely navigate protests against racism and police brutality, learn about digital security, and make it through quarantines in 2020. This guide is specifically written with US communities in mind, but may feature advice that's applicable to other contexts, as well.
+This guide is intended to provide some advice and resources to help LGBTQIA+ people safely navigate protests against racism and police brutality, learn about digital security, and make it through quarantines in 2020. This guide does not have a ton of trans specific resources which we hope to change over time. We do know that police are often perpetrators of violence against trans people.  This is written in memory of our community members murdered by the police like Tony McDade and Kiwi Herring.  Their voices are left out often when talking about the intersectional impact of anti-Blackness, transphophia, and partriarchy.  This guide is also specifically written with US communities in mind, but may feature advice that's applicable to other contexts, as well.
 
 This guide isn't meant to scare you or make you extra paranoid. It's meant to be informative and approachable, and to help you decrease the amount of potential harm you are exposed to online and on the ground. 
 
