@@ -65,6 +65,13 @@ This guide isn't meant to scare you or make you extra paranoid. It's meant to be
 
 This advice is not one-size-fits-all. Your situation is almost certainly different from anyone else's, so it's important to remember that these tips might need some tweaking to be helpful to you. You may find that some of this advice is too much trouble for you, or that it involves a trade-off that you're not willing to make. That's okay! You don't have to do anything you don't want to. We'll try to give as many options as possible so that you can pick which solution works best for you.
 
+Most importantly create a plan on how to take these steps. Taking these steps with others is encouraged.  We understand that it's hard too make time so we have a few ideas to make that a bit easier:
+
+* Create a google calendar invite to tackle one digital security step.
+* The day before you attend a protest spend 1 hour with your crew making a digital security. (ex. "Let's download [2.2.a Signal](#signal) and make sure we communicate via that platform when we get to the capitol" or "Everyone backup your phone right now in the very low chance it will get confiscated").
+* Organize a virtual or in person (with your social pod or bubble) dinner party where the courses are implementing a digital security tip.
+* Make a digital security social distancing friend date
+
 We are people who care about digital security, and who have devoted some part of our lives to keeping up to date with these things & teaching others how to stay safe, but _we are not experts._ Take all of this advice with a grain of salt, and always use your best judgement. 
 
 **Be sure to check out the incredible [BLM Guide](https://www.notion.so/BLM-Guide-fac525a6d1324d458d15bdc4fec98661) for tips, advice, and resources on how to organize safely in the US.**
