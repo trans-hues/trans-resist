@@ -977,7 +977,7 @@ Aquí incluimos recursos hechos por organizaciones de los EEUU y de América Lat
 
 Queremos incluir más recursos en español. Si conoces algo que debemos de incluir, por favor de mandar un pull request o abrir un issue para contarnos.
 
-#### Las vidas negras important
+#### Las vidas negras importan
 
 [¿Cómo puedes ayudar?](https://lasvidasnegrasimportan.carrd.co/)
 
