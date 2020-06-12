@@ -55,6 +55,8 @@ Advice and resources on digital security, protesting, organizing, and strategizi
       * [4.1.b Canada](#mutaidCAN)
 5. [How to help if you can't physically go to a protest](#helpfromhome)
 6. [Other Resources ](#resources)
+    * [6.1 English  resources](#enresources)
+    * [6.2 Recursos en español](#esprecursos)
 
 <a name="desc"></a>
 ## **(1.0) Description**
@@ -871,7 +873,10 @@ While showing up physically to a protest is important to a movement, not all of 
 <a name="resources"></a>
 ## **(6.0) Other resources**
 
-### Black Lives Matter
+<a name="enresources"></a>
+### English resources
+
+#### Black Lives Matter
 
 [BLM Guide](https://www.notion.so/BLM-Guide-fac525a6d1324d458d15bdc4fec98661)
   * Has resources on how to organize, strategize, and protest, and how to stay safe while doing it.
@@ -963,6 +968,65 @@ While showing up physically to a protest is important to a movement, not all of 
  [Trans Women of Color Collective](https://www.twocc.us/)
  
   * Supporting thru education and community funds initiatives focusing on survival and wellness. 
+
+---
+
+### Recursos en español
+
+Aquí incluimos recursos hechos por organizaciones de los EEUU y de América Latina.
+
+Queremos incluir más recursos en español. Si conoces algo que debemos de incluir, por favor de mandar un pull request o abrir un issue para contarnos.
+
+#### Derechos y la ley
+
+[American Civil Liberties Union (ACLU)](https://www.aclu.org/)
+  * [Derechos de los manifestantes](https://www.aclu.org/know-your-rights/derechos-de-los-manifestantes)
+
+[National Lawyers Guild (NLG)](https://www.nlg.org/resources/)
+  * [Conoce tus derechos](https://www.nlg.org/wp-content/uploads/2016/04/kyrpamphlet-SPANISH-Final-2015-NIP.pdf)
+
+[Sylvia Rivera Law Project]
+  * [Sus Derechos de Inmigración](https://srlp.org/wp-content/uploads/2018/02/kyr-immgr-span-color-v2.pdf)
+
+[United We Dream](https://unitedwedream.org/)
+  * [¿Verdad o rumor? Cómo verificar reportes en línea sobre las redadas de ICE](https://unitedwedream.org/wp-content/uploads/2020/03/ES_VerificarLasRedades_v1_0_20190829-1.pdf)
+  * [Conoce tu poder](https://unitedwedream.org/heretostay/know-your-power/)
+
+
+#### Seguridad digital
+
+[Dominemos la Tecnología](https://www.takebackthetech.net/es) & [Iniciativa Mesoamericana de Mujeres Defensoras de Derechos Humanos](https://im-defensoras.org/es/)
+  * [Guía fácil para comunicarnos (y conspirar) en espacios seguros durante COVID19](https://im-defensoras.org/wp-content/uploads/2020/06/Gui%CC%81a_fa%CC%81cil_para_comunicarnos_y_conspirar_en_espacios_seguros_durante-3.pdf)
+
+[Derechos Digitales](https://www.derechosdigitales.org/)
+  * [Torifícate](https://tor.derechosdigitales.org/torificate/)
+    * Información sobre qué es Tor, cómo funciona, cómo puedes usarlo o cómo puedes involucrarte en la comunidad Tor.
+  * [Así que necesitas hacer una videollamada](https://www.derechosdigitales.org/wp-content/uploads/pub_videollamadas.pdf)
+    * Una guía para ayudarte a elegir la herramienta más apropiada de acuerdo a tus necesidades.
+
+[#Seguridad Digital](https://seguridad-digital.org/)
+
+#### Salud mental
+
+[Vita activa](https://vita-activa.org/)
+  * Una línea de ayuda. Te pueden ayudar si estás experimentando estrés, trauma, crisis, cansancio crónico y/o violencias de género.
+
+#### Violencia de genero
+
+[Acoso Online](https://acoso.online/cl/)
+  * Recursos para denunciar y resistir la publicación de pornografia no consentida
+
+[La clika](https://www.libresenlinea.mx/)
+
+[Dominemos la Tecnología](https://www.takebackthetech.net/es)
+  * [¡Hey amiga!](https://www.takebackthetech.net/es/know-more/heyamiga)
+    * Una guía para ayudarte a acompañar amigas que estan experimentando violencia de género en línea.
+
+[Hacks de Vida: Consejos prácticos para la atención a personas que enfrentan violencias de género en línea en América Latina](https://archive.org/details/DocumentoHacksdeVida_201803)
+
+[Derechos Digitales](https://www.derechosdigitales.org/)
+  * [Cuidados durante la pandemia: ¿Cómo denunciar la violencia doméstica?](https://www.derechosdigitales.org/wp-content/uploads/covid-violencia-domestica.pdf)
+
 
 
 
