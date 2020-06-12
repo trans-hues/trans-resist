@@ -970,7 +970,7 @@ While showing up physically to a protest is important to a movement, not all of 
   * Supporting thru education and community funds initiatives focusing on survival and wellness. 
 
 ---
-
+<a name="esprecursos"></a>
 ### Recursos en español
 
 Aquí incluimos recursos hechos por organizaciones de los EEUU y de América Latina.
