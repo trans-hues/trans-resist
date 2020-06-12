@@ -599,13 +599,11 @@ You don't need to do this alone, and really, you probably shouldn't protest alon
 
 #### Tear Gas
 
-[CDC Fact Sheet on Tear Gas](https://emergency.cdc.gov/agent/riotcontrol/factsheet.asp)
-
-Tear gas can stick to face paint and makeup, so it's best to go without. Nylons and fishnets can also aggravate the effects of tear gas and other riot control agents.
-
-If tear gas is deployed, move upwind (in the opposite direction from where the wind is blowing) and uphill as quickly as you can.
-
-If you are wearing contacts, remove them immediately after tear gas is deployed. Be sure to remove contacts BEFORE rinsing your eyes.
+  * [CDC Fact Sheet on Tear Gas](https://emergency.cdc.gov/agent/riotcontrol/factsheet.asp)
+  * Don't wear swimming goggles to protect yourself. If you're hit on the eye while wearing swimming goggles, the percussive force can cause damage to your eye - this is why they're not worn in water polo. Instead, consider wearing sealed lab goggles, snorkling facemasks, or some other covering that would spread the force across a larger area on your face.
+  * Tear gas can stick to face paint and makeup, so it's best to go without. Nylons and fishnets can also aggravate the effects of tear gas and other riot control agents.
+  * If tear gas is deployed, move upwind (in the opposite direction from where the wind is blowing) and uphill as quickly as you can.
+  * If you are wearing contacts, remove them immediately after tear gas is deployed. Be sure to remove contacts BEFORE rinsing your eyes.
 
 ##### Anti-Tear gas tactics
 
@@ -795,7 +793,8 @@ Some bail funds will also help you through the release process, and provide some
 **National:**
   * [National COVID-19 Mutual Aid document (Google Docs):](https://docs.google.com/document/d/1dpMzMzsA83jbVEXS8m7QKOtK4nj6gIUk1U1t6P4wShY/edit)
   * [It's Going Down - Resources for Mutual Aid Organizing:](https://itsgoingdown.org/autonomous-groups-are-mobilizing-mutual-aid-initiatives-to-combat-the-coronavirus/)
-
+  * [Carrd with a list of mutual aid groups](https://mutualaid.carrd.co/)
+  
 **California (CA):**
   * [Los Angeles Covid-19 Mutual Aid Network (Gofundme):](https://www.gofundme.com/f/covid19-mutual-aid-network)
 
@@ -905,6 +904,7 @@ While showing up physically to a protest is important to a movement, not all of 
     * a guide by the Electronic Frontier Foundation (EFF) on how to take care of your digital security at a protest. This guide was written in 2016, so it may be out of date.
   * [Attending a Protest (EN) (2019)](https://ssd.eff.org/en/module/attending-protest)
     * another guide by the Electronic Frontier Foundation (EFF) on how to protect yourself at a protest. This guide was last edited in 2019.
+  * [How to Identify Visible (and Invisible) Surveillance at Protests](https://www.eff.org/deeplinks/2020/06/how-identify-visible-and-invisible-surveillance-protests)
   * [Surveillance Self-Defense (EN)](https://ssd.eff.org/en/module-categories/further-learning)
     * a series of guides by EFF on digital security and self defense against surveillance. Covers topics like encryption, social networks, VPNs, and malware.
   * [Protecting Your Privacy if Your Phone is Taken Away](https://www.eff.org/deeplinks/2020/06/protecting-your-privacy-if-your-phone-taken-away)
