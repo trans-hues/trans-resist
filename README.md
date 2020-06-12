@@ -82,6 +82,8 @@ We are people who care about digital security, and who have devoted some part of
 
 We'd also like to recommend [From Beirut to Minneapolis](https://github.com/frombeirutwithlove/ProtestTips/blob/master/WhatToDo.md), a guide to general protest safety written by some trusted folks who're Lebanese protesters, activists, and technologists. We've adapted some of their advice here. 
 
+Para una guía en español, recomendamos [Protesta en Covid](https://medium.com/@unaestefania/protesta-en-covid-411e0142b4a1) por Estefanía Camacho.
+
 [List of BLM chapters](https://blacklivesmatter.com/chapters/)
 
 [Ways You Can Help](https://blacklivesmatters.carrd.co/)
@@ -980,6 +982,10 @@ Queremos incluir más recursos en español. Si conoces algo que debemos de inclu
 #### Las vidas negras importan
 
 [¿Cómo puedes ayudar?](https://lasvidasnegrasimportan.carrd.co/)
+
+#### Seguridad general para manifestantes
+
+[Protesta en Covid](https://medium.com/@unaestefania/protesta-en-covid-411e0142b4a1) por Estefanía Camacho
 
 #### Derechos y la ley
 
