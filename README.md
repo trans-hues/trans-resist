@@ -65,11 +65,13 @@ This guide isn't meant to scare you or make you extra paranoid. It's meant to be
 
 This advice is not one-size-fits-all. Your situation is almost certainly different from anyone else's, so it's important to remember that these tips might need some tweaking to be helpful to you. You may find that some of this advice is too much trouble for you, or that it involves a trade-off that you're not willing to make. That's okay! You don't have to do anything you don't want to. We'll try to give as many options as possible so that you can pick which solution works best for you.
 
-Most importantly create a plan on how to take these steps. Taking these steps with others is encouraged.  We understand that it's hard too make time so we have a few ideas to make that a bit easier:
+Most importantly, create a plan on how to take these steps. Taking these steps with others is encouraged; you don't have to do this alone.  We understand that it's hard to make time, so we have a few ideas to make that a bit easier:
 
-* Create a google calendar invite to tackle one digital security step.
-* The day before you attend a protest spend 1 hour with your crew making a digital security. (ex. "Let's download [2.2.a Signal](#signal) and make sure we communicate via that platform when we get to the capitol" or "Everyone backup your phone right now in the very low chance it will get confiscated").
-* Organize a virtual or in person (with your social pod or bubble) dinner party where the courses are implementing a digital security tip.
+* Create a google calendar invite to tackle one digital security step, maybe over video-call or voicechat.
+* The day before you attend a protest, spend 1 hour with your crew making a digital security plan like:
+  * "Let's download [2.2.a Signal](#signal) and make sure we communicate via that platform when we get to the capitol
+  * "Everyone backup your phone right now in the very low chance it will get confiscated".
+* Organize a virtual or in-person (with your social pod or bubble) dinner party where the courses are implementing a digital security tip.
 * Make a digital security social distancing friend date
 
 We are people who care about digital security, and who have devoted some part of our lives to keeping up to date with these things & teaching others how to stay safe, but _we are not experts._ Take all of this advice with a grain of salt, and always use your best judgement. 
@@ -585,6 +587,13 @@ Be aware that arrests are happening at these protests: people are being arrested
 
 <a name="gensafety"></a>
 ### **(3.1) General Safety**
+
+#### Strength in numbers
+
+You don't need to do this alone, and really, you probably shouldn't protest alone. 
+* Find friends to organize with, or make friends at a protest. 
+* Find a buddy you can message before and after every protest/action to check-in. Setup a plan with them for how to get in touch in an emergency, and what to do if you're arrested.
+* Within your protest group, consider setting up shifts, either throughout a week or within one day. It's important to make sure that people can take breaks to avoid burnout, and luckily, there are enough of us involved in these protests that we can afford to distribute our energy.
 
 #### Tear Gas
 
