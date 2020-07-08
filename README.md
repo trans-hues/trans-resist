@@ -971,9 +971,11 @@ While showing up physically to a protest is important to a movement, not all of 
 [Trans Lifeline](https://www.translifeline.org)
  * a trans led hotline (877-565-8860) and microgrants organization that offers peer led direct emotional and financial support to trans people in crisis.  
  
- [Trans Women of Color Collective](https://www.twocc.us/)
+[Trans Women of Color Collective](https://www.twocc.us/)
+ * Supporting thru education and community funds initiatives focusing on survival and wellness. 
  
-  * Supporting thru education and community funds initiatives focusing on survival and wellness. 
+[Rad Remedy](https://radremedy.org/)
+  * A website that helps you find Trans and queer inclusive medical and mental health providers. They also have [zines](https://zines.radremedy.org/) about trans health and self-exams.
 
 ---
 <a name="esprecursos"></a>
